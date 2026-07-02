@@ -1,0 +1,2797 @@
+{
+  "data": {
+    "objects": [
+      {
+        "names": {
+          "common": "Abkhazia"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 43.0033,
+              "lng": 41.0153
+            },
+            "name": "Sukhumi"
+          }
+        ],
+        "flag": {
+          "emoji": ""
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Afghanistan"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 34.52,
+              "lng": 69.18
+            },
+            "name": "Kabul"
+          }
+        ],
+        "flag": {
+          "emoji": "🇦🇫"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Albania"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 41.32,
+              "lng": 19.82
+            },
+            "name": "Tirana"
+          }
+        ],
+        "flag": {
+          "emoji": "🇦🇱"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Algeria"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 36.75,
+              "lng": 3.05
+            },
+            "name": "Algiers"
+          }
+        ],
+        "flag": {
+          "emoji": "🇩🇿"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "American Samoa"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": -14.27,
+              "lng": -170.7
+            },
+            "name": "Pago Pago"
+          }
+        ],
+        "flag": {
+          "emoji": "🇦🇸"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Andorra"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 42.5,
+              "lng": 1.52
+            },
+            "name": "Andorra la Vella"
+          }
+        ],
+        "flag": {
+          "emoji": "🇦🇩"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Angola"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": -8.83,
+              "lng": 13.22
+            },
+            "name": "Luanda"
+          }
+        ],
+        "flag": {
+          "emoji": "🇦🇴"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Anguilla"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 18.22,
+              "lng": -63.05
+            },
+            "name": "The Valley"
+          }
+        ],
+        "flag": {
+          "emoji": "🇦🇮"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Antarctica"
+        },
+        "capitals": [],
+        "flag": {
+          "emoji": "🇦🇶"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Antigua and Barbuda"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 17.12,
+              "lng": -61.85
+            },
+            "name": "Saint John's"
+          }
+        ],
+        "flag": {
+          "emoji": "🇦🇬"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Argentina"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": -34.58,
+              "lng": -58.67
+            },
+            "name": "Buenos Aires"
+          }
+        ],
+        "flag": {
+          "emoji": "🇦🇷"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Armenia"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 40.17,
+              "lng": 44.5
+            },
+            "name": "Yerevan"
+          }
+        ],
+        "flag": {
+          "emoji": "🇦🇲"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Aruba"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 12.52,
+              "lng": -70.03
+            },
+            "name": "Oranjestad"
+          }
+        ],
+        "flag": {
+          "emoji": "🇦🇼"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783007217
+        }
+      },
+      {
+        "names": {
+          "common": "Australia"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": -35.27,
+              "lng": 149.13
+            },
+            "name": "Canberra"
+          }
+        ],
+        "flag": {
+          "emoji": "🇦🇺"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Austria"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 48.2,
+              "lng": 16.37
+            },
+            "name": "Vienna"
+          }
+        ],
+        "flag": {
+          "emoji": "🇦🇹"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Azerbaijan"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 40.38,
+              "lng": 49.87
+            },
+            "name": "Baku"
+          }
+        ],
+        "flag": {
+          "emoji": "🇦🇿"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Bahamas"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 25.08,
+              "lng": -77.35
+            },
+            "name": "Nassau"
+          }
+        ],
+        "flag": {
+          "emoji": "🇧🇸"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Bahrain"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 26.23,
+              "lng": 50.57
+            },
+            "name": "Manama"
+          }
+        ],
+        "flag": {
+          "emoji": "🇧🇭"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Bangladesh"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 23.72,
+              "lng": 90.4
+            },
+            "name": "Dhaka"
+          }
+        ],
+        "flag": {
+          "emoji": "🇧🇩"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Barbados"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 13.1,
+              "lng": -59.62
+            },
+            "name": "Bridgetown"
+          }
+        ],
+        "flag": {
+          "emoji": "🇧🇧"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Belarus"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 53.9,
+              "lng": 27.57
+            },
+            "name": "Minsk"
+          }
+        ],
+        "flag": {
+          "emoji": "🇧🇾"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Belgium"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 50.83,
+              "lng": 4.33
+            },
+            "name": "Brussels"
+          }
+        ],
+        "flag": {
+          "emoji": "🇧🇪"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Belize"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 17.25,
+              "lng": -88.77
+            },
+            "name": "Belmopan"
+          }
+        ],
+        "flag": {
+          "emoji": "🇧🇿"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Benin"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 6.48,
+              "lng": 2.62
+            },
+            "name": "Porto-Novo"
+          }
+        ],
+        "flag": {
+          "emoji": "🇧🇯"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Bermuda"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 32.28,
+              "lng": -64.78
+            },
+            "name": "Hamilton"
+          }
+        ],
+        "flag": {
+          "emoji": "🇧🇲"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Bhutan"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 27.47,
+              "lng": 89.63
+            },
+            "name": "Thimphu"
+          }
+        ],
+        "flag": {
+          "emoji": "🇧🇹"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Bolivia"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": true,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": false
+            },
+            "coordinates": {
+              "lat": -19.04,
+              "lng": -65.26
+            },
+            "name": "Sucre"
+          },
+          {
+            "attributes": {
+              "administrative": true,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": false
+            },
+            "coordinates": {
+              "lat": -16.5,
+              "lng": -68.15
+            },
+            "name": "La Paz"
+          }
+        ],
+        "flag": {
+          "emoji": "🇧🇴"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Bosnia and Herzegovina"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 43.87,
+              "lng": 18.42
+            },
+            "name": "Sarajevo"
+          }
+        ],
+        "flag": {
+          "emoji": "🇧🇦"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Botswana"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": -24.63,
+              "lng": 25.9
+            },
+            "name": "Gaborone"
+          }
+        ],
+        "flag": {
+          "emoji": "🇧🇼"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Bouvet Island"
+        },
+        "capitals": [],
+        "flag": {
+          "emoji": "🇧🇻"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Brazil"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": -15.79,
+              "lng": -47.88
+            },
+            "name": "Brasília"
+          }
+        ],
+        "flag": {
+          "emoji": "🇧🇷"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "British Indian Ocean Territory"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": -7.3133,
+              "lng": 72.4111
+            },
+            "name": "Diego Garcia"
+          }
+        ],
+        "flag": {
+          "emoji": "🇮🇴"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "British Virgin Islands"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 18.42,
+              "lng": -64.62
+            },
+            "name": "Road Town"
+          }
+        ],
+        "flag": {
+          "emoji": "🇻🇬"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Brunei"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 4.88,
+              "lng": 114.93
+            },
+            "name": "Bandar Seri Begawan"
+          }
+        ],
+        "flag": {
+          "emoji": "🇧🇳"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Bulgaria"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 42.68,
+              "lng": 23.32
+            },
+            "name": "Sofia"
+          }
+        ],
+        "flag": {
+          "emoji": "🇧🇬"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Burkina Faso"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 12.37,
+              "lng": -1.52
+            },
+            "name": "Ouagadougou"
+          }
+        ],
+        "flag": {
+          "emoji": "🇧🇫"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Burundi"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": -3.43,
+              "lng": 29.93
+            },
+            "name": "Gitega"
+          }
+        ],
+        "flag": {
+          "emoji": "🇧🇮"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Cabo Verde"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 14.92,
+              "lng": -23.52
+            },
+            "name": "Praia"
+          }
+        ],
+        "flag": {
+          "emoji": "🇨🇻"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Cambodia"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 11.55,
+              "lng": 104.92
+            },
+            "name": "Phnom Penh"
+          }
+        ],
+        "flag": {
+          "emoji": "🇰🇭"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Cameroon"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 3.85,
+              "lng": 11.5
+            },
+            "name": "Yaoundé"
+          }
+        ],
+        "flag": {
+          "emoji": "🇨🇲"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Canada"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 45.42,
+              "lng": -75.7
+            },
+            "name": "Ottawa"
+          }
+        ],
+        "flag": {
+          "emoji": "🇨🇦"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Caribbean Netherlands"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 12.14,
+              "lng": -68.27
+            },
+            "name": "Kralendijk"
+          }
+        ],
+        "flag": {
+          "emoji": "🇧🇶"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783012469
+        }
+      },
+      {
+        "names": {
+          "common": "Cayman Islands"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 19.3,
+              "lng": -81.38
+            },
+            "name": "George Town"
+          }
+        ],
+        "flag": {
+          "emoji": "🇰🇾"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Central African Republic"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 4.37,
+              "lng": 18.58
+            },
+            "name": "Bangui"
+          }
+        ],
+        "flag": {
+          "emoji": "🇨🇫"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Chad"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 12.1,
+              "lng": 15.03
+            },
+            "name": "N'Djamena"
+          }
+        ],
+        "flag": {
+          "emoji": "🇹🇩"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Chile"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": -33.45,
+              "lng": -70.67
+            },
+            "name": "Santiago"
+          }
+        ],
+        "flag": {
+          "emoji": "🇨🇱"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "China"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 39.92,
+              "lng": 116.38
+            },
+            "name": "Beijing"
+          }
+        ],
+        "flag": {
+          "emoji": "🇨🇳"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Christmas Island"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": -10.42,
+              "lng": 105.68
+            },
+            "name": "Flying Fish Cove"
+          }
+        ],
+        "flag": {
+          "emoji": "🇨🇽"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Cocos (Keeling) Islands"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": -12.17,
+              "lng": 96.83
+            },
+            "name": "West Island"
+          }
+        ],
+        "flag": {
+          "emoji": "🇨🇨"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Colombia"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 4.71,
+              "lng": -74.07
+            },
+            "name": "Bogotá"
+          }
+        ],
+        "flag": {
+          "emoji": "🇨🇴"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Comoros"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": -11.7,
+              "lng": 43.23
+            },
+            "name": "Moroni"
+          }
+        ],
+        "flag": {
+          "emoji": "🇰🇲"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Congo"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": -4.25,
+              "lng": 15.28
+            },
+            "name": "Brazzaville"
+          }
+        ],
+        "flag": {
+          "emoji": "🇨🇬"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Cook Islands"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": -21.2,
+              "lng": -159.77
+            },
+            "name": "Avarua"
+          }
+        ],
+        "flag": {
+          "emoji": "🇨🇰"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Costa Rica"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 9.93,
+              "lng": -84.09
+            },
+            "name": "San José"
+          }
+        ],
+        "flag": {
+          "emoji": "🇨🇷"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Croatia"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 45.815,
+              "lng": 15.9819
+            },
+            "name": "Zagreb"
+          }
+        ],
+        "flag": {
+          "emoji": "🇭🇷"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Cuba"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 23.12,
+              "lng": -82.35
+            },
+            "name": "Havana"
+          }
+        ],
+        "flag": {
+          "emoji": "🇨🇺"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Curaçao"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 12.1,
+              "lng": -68.92
+            },
+            "name": "Willemstad"
+          }
+        ],
+        "flag": {
+          "emoji": "🇨🇼"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Cyprus"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 35.17,
+              "lng": 33.37
+            },
+            "name": "Nicosia"
+          }
+        ],
+        "flag": {
+          "emoji": "🇨🇾"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Czechia"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 50.08,
+              "lng": 14.47
+            },
+            "name": "Prague"
+          }
+        ],
+        "flag": {
+          "emoji": "🇨🇿"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "DRC"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": -4.32,
+              "lng": 15.3
+            },
+            "name": "Kinshasa"
+          }
+        ],
+        "flag": {
+          "emoji": "🇨🇩"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Denmark"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 55.67,
+              "lng": 12.58
+            },
+            "name": "Copenhagen"
+          }
+        ],
+        "flag": {
+          "emoji": "🇩🇰"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Djibouti"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 11.58,
+              "lng": 43.15
+            },
+            "name": "Djibouti"
+          }
+        ],
+        "flag": {
+          "emoji": "🇩🇯"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Dominica"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 15.301,
+              "lng": -61.3881
+            },
+            "name": "Roseau"
+          }
+        ],
+        "flag": {
+          "emoji": "🇩🇲"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Dominican Republic"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 18.47,
+              "lng": -69.9
+            },
+            "name": "Santo Domingo"
+          }
+        ],
+        "flag": {
+          "emoji": "🇩🇴"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Ecuador"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": -0.22,
+              "lng": -78.5
+            },
+            "name": "Quito"
+          }
+        ],
+        "flag": {
+          "emoji": "🇪🇨"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Egypt"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 30.05,
+              "lng": 31.25
+            },
+            "name": "Cairo"
+          }
+        ],
+        "flag": {
+          "emoji": "🇪🇬"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "El Salvador"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 13.6929,
+              "lng": -89.2182
+            },
+            "name": "San Salvador"
+          }
+        ],
+        "flag": {
+          "emoji": "🇸🇻"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Equatorial Guinea"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 3.75,
+              "lng": 8.78
+            },
+            "name": "Malabo"
+          }
+        ],
+        "flag": {
+          "emoji": "🇬🇶"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Eritrea"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 15.33,
+              "lng": 38.93
+            },
+            "name": "Asmara"
+          }
+        ],
+        "flag": {
+          "emoji": "🇪🇷"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Estonia"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 59.43,
+              "lng": 24.72
+            },
+            "name": "Tallinn"
+          }
+        ],
+        "flag": {
+          "emoji": "🇪🇪"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Eswatini"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": true,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": false
+            },
+            "coordinates": {
+              "lat": -26.31,
+              "lng": 31.13
+            },
+            "name": "Mbabane"
+          },
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": true,
+              "primary": false
+            },
+            "coordinates": {
+              "lat": -26.47,
+              "lng": 31.2
+            },
+            "name": "Lobamba"
+          }
+        ],
+        "flag": {
+          "emoji": "🇸🇿"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Ethiopia"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 9.03,
+              "lng": 38.7
+            },
+            "name": "Addis Ababa"
+          }
+        ],
+        "flag": {
+          "emoji": "🇪🇹"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Falkland Islands"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": -51.7,
+              "lng": -57.85
+            },
+            "name": "Stanley"
+          }
+        ],
+        "flag": {
+          "emoji": "🇫🇰"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Faroe Islands"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 62.01,
+              "lng": -6.77
+            },
+            "name": "Tórshavn"
+          }
+        ],
+        "flag": {
+          "emoji": "🇫🇴"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Fiji"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": -18.13,
+              "lng": 178.42
+            },
+            "name": "Suva"
+          }
+        ],
+        "flag": {
+          "emoji": "🇫🇯"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005247
+        }
+      },
+      {
+        "names": {
+          "common": "Finland"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 60.17,
+              "lng": 24.93
+            },
+            "name": "Helsinki"
+          }
+        ],
+        "flag": {
+          "emoji": "🇫🇮"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005248
+        }
+      },
+      {
+        "names": {
+          "common": "France"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 48.87,
+              "lng": 2.33
+            },
+            "name": "Paris"
+          }
+        ],
+        "flag": {
+          "emoji": "🇫🇷"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005248
+        }
+      },
+      {
+        "names": {
+          "common": "French Guiana"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 4.94,
+              "lng": -52.33
+            },
+            "name": "Cayenne"
+          }
+        ],
+        "flag": {
+          "emoji": "🇬🇫"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005248
+        }
+      },
+      {
+        "names": {
+          "common": "French Polynesia"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": -17.53,
+              "lng": -149.56
+            },
+            "name": "Papeetē"
+          }
+        ],
+        "flag": {
+          "emoji": "🇵🇫"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005248
+        }
+      },
+      {
+        "names": {
+          "common": "French Southern and Antarctic Lands"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": -49.35,
+              "lng": 70.2167
+            },
+            "name": "Port-aux-Français"
+          }
+        ],
+        "flag": {
+          "emoji": "🇹🇫"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005248
+        }
+      },
+      {
+        "names": {
+          "common": "Gabon"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 0.38,
+              "lng": 9.45
+            },
+            "name": "Libreville"
+          }
+        ],
+        "flag": {
+          "emoji": "🇬🇦"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005248
+        }
+      },
+      {
+        "names": {
+          "common": "Gambia"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 13.45,
+              "lng": -16.57
+            },
+            "name": "Banjul"
+          }
+        ],
+        "flag": {
+          "emoji": "🇬🇲"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005248
+        }
+      },
+      {
+        "names": {
+          "common": "Georgia"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 41.68,
+              "lng": 44.83
+            },
+            "name": "Tbilisi"
+          }
+        ],
+        "flag": {
+          "emoji": "🇬🇪"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005248
+        }
+      },
+      {
+        "names": {
+          "common": "Germany"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 52.52,
+              "lng": 13.4
+            },
+            "name": "Berlin"
+          }
+        ],
+        "flag": {
+          "emoji": "🇩🇪"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005248
+        }
+      },
+      {
+        "names": {
+          "common": "Ghana"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 5.55,
+              "lng": -0.22
+            },
+            "name": "Accra"
+          }
+        ],
+        "flag": {
+          "emoji": "🇬🇭"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005248
+        }
+      },
+      {
+        "names": {
+          "common": "Gibraltar"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 36.13,
+              "lng": -5.35
+            },
+            "name": "Gibraltar"
+          }
+        ],
+        "flag": {
+          "emoji": "🇬🇮"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005248
+        }
+      },
+      {
+        "names": {
+          "common": "Greece"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 37.98,
+              "lng": 23.73
+            },
+            "name": "Athens"
+          }
+        ],
+        "flag": {
+          "emoji": "🇬🇷"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005248
+        }
+      },
+      {
+        "names": {
+          "common": "Greenland"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 64.18,
+              "lng": -51.75
+            },
+            "name": "Nuuk"
+          }
+        ],
+        "flag": {
+          "emoji": "🇬🇱"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005248
+        }
+      },
+      {
+        "names": {
+          "common": "Grenada"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 12.0529,
+              "lng": -61.7523
+            },
+            "name": "St. George's"
+          }
+        ],
+        "flag": {
+          "emoji": "🇬🇩"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005248
+        }
+      },
+      {
+        "names": {
+          "common": "Guadeloupe"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 16.03,
+              "lng": -61.73
+            },
+            "name": "Basse-Terre"
+          }
+        ],
+        "flag": {
+          "emoji": "🇬🇵"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005248
+        }
+      },
+      {
+        "names": {
+          "common": "Guam"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 13.48,
+              "lng": 144.75
+            },
+            "name": "Hagåtña"
+          }
+        ],
+        "flag": {
+          "emoji": "🇬🇺"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005248
+        }
+      },
+      {
+        "names": {
+          "common": "Guatemala"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 14.62,
+              "lng": -90.52
+            },
+            "name": "Guatemala City"
+          }
+        ],
+        "flag": {
+          "emoji": "🇬🇹"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005248
+        }
+      },
+      {
+        "names": {
+          "common": "Guernsey"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 49.45,
+              "lng": -2.54
+            },
+            "name": "St. Peter Port"
+          }
+        ],
+        "flag": {
+          "emoji": "🇬🇬"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783020690
+        }
+      },
+      {
+        "names": {
+          "common": "Guinea"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 9.6412,
+              "lng": -13.5784
+            },
+            "name": "Conakry"
+          }
+        ],
+        "flag": {
+          "emoji": "🇬🇳"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005248
+        }
+      },
+      {
+        "names": {
+          "common": "Guinea-Bissau"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 11.85,
+              "lng": -15.58
+            },
+            "name": "Bissau"
+          }
+        ],
+        "flag": {
+          "emoji": "🇬🇼"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005248
+        }
+      },
+      {
+        "names": {
+          "common": "Guyana"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 6.8,
+              "lng": -58.15
+            },
+            "name": "Georgetown"
+          }
+        ],
+        "flag": {
+          "emoji": "🇬🇾"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005248
+        }
+      },
+      {
+        "names": {
+          "common": "Haiti"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 18.53,
+              "lng": -72.33
+            },
+            "name": "Port-au-Prince"
+          }
+        ],
+        "flag": {
+          "emoji": "🇭🇹"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005248
+        }
+      },
+      {
+        "names": {
+          "common": "Heard Island and McDonald Islands"
+        },
+        "capitals": [],
+        "flag": {
+          "emoji": "🇭🇲"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005248
+        }
+      },
+      {
+        "names": {
+          "common": "Honduras"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 14.1,
+              "lng": -87.22
+            },
+            "name": "Tegucigalpa"
+          }
+        ],
+        "flag": {
+          "emoji": "🇭🇳"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005248
+        }
+      },
+      {
+        "names": {
+          "common": "Hong Kong"
+        },
+        "capitals": [
+          {
+            "attributes": {
+              "administrative": false,
+              "constitutional": false,
+              "executive": false,
+              "judicial": false,
+              "legislative": false,
+              "primary": true
+            },
+            "coordinates": {
+              "lat": 22.267,
+              "lng": 114.188
+            },
+            "name": "City of Victoria"
+          }
+        ],
+        "flag": {
+          "emoji": "🇭🇰"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783023918
+        }
+      }
+    ],
+    "meta": {
+      "total": 254,
+      "count": 100,
+      "limit": 100,
+      "offset": 0,
+      "more": true,
+      "request_id": "f841555f-9549-49b2-b9b5-c0a4b6e517bd",
+      "duration": 28
+    }
+  }
+}

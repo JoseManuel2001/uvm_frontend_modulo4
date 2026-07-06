@@ -1,8 +1,215 @@
 {
-  "errors": [
-    {
-      "message": "Not found",
-      "code": "routeNotFound"
+  "data": {
+    "objects": [
+      {
+        "names": {
+          "common": "Abkhazia"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Afghanistan"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Albania"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Algeria"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "American Samoa"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Andorra"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Angola"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Anguilla"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Antarctica"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Antigua and Barbuda"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Argentina"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Armenia"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Aruba"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783007217
+        }
+      },
+      {
+        "names": {
+          "common": "Australia"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Austria"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Azerbaijan"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783040108
+        }
+      },
+      {
+        "names": {
+          "common": "Bahamas"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Bahrain"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Bangladesh"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Barbados"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Belarus"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Belgium"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Belize"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Benin"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      },
+      {
+        "names": {
+          "common": "Bermuda"
+        },
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005246
+        }
+      }
+    ],
+    "meta": {
+      "total": 254,
+      "count": 25,
+      "limit": 25,
+      "offset": 0,
+      "more": true,
+      "request_id": "798180db-4316-4f35-ac16-03dc46751621",
+      "duration": 31
     }
-  ]
+  }
 }

@@ -1,0 +1,32 @@
+{
+  "data": {
+    "objects": [
+      {
+        "names": {
+          "common": "Mexico"
+        },
+        "continents": [
+          "North America"
+        ],
+        "_match": [
+          {
+            "path": "names.common",
+            "value": "Mexico"
+          }
+        ],
+        "_meta": {
+          "lastUpdatedTimestamp": 1783005249
+        }
+      }
+    ],
+    "meta": {
+      "total": 1,
+      "count": 1,
+      "limit": 25,
+      "offset": 0,
+      "more": false,
+      "request_id": "8b0fb587-58ab-4ab6-80fc-de0685f83353",
+      "duration": 1
+    }
+  }
+}

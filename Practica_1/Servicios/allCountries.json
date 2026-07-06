@@ -3,7 +3,83 @@
     "objects": [
       {
         "names": {
-          "common": "Abkhazia"
+          "alternates": [
+            "Apsny"
+          ],
+          "common": "Abkhazia",
+          "native": {
+            "abk": {
+              "common": "Аҧсны",
+              "official": "Аҧсны Аҳәынҭқарра"
+            },
+            "rus": {
+              "common": "Абхазия",
+              "official": "Республика Абхазия"
+            }
+          },
+          "official": "Republic of Abkhazia",
+          "translations": {
+            "ara": {
+              "common": "أبخازيا",
+              "official": "جمهورية أبخازيا"
+            },
+            "deu": {
+              "common": "Abchasien",
+              "official": "Republik Abchasien"
+            },
+            "fra": {
+              "common": "Abkhazie",
+              "official": "République d'Abkhazie"
+            },
+            "hun": {
+              "common": "Abházia",
+              "official": "Abház Köztársaság"
+            },
+            "ita": {
+              "common": "Abcasia",
+              "official": "Repubblica di Abcasia"
+            },
+            "jpn": {
+              "common": "アブハジア",
+              "official": "アブハジア共和国"
+            },
+            "kor": {
+              "common": "압하지야",
+              "official": "압하지야 공화국"
+            },
+            "nld": {
+              "common": "Abchazië",
+              "official": "Republiek Abchazië"
+            },
+            "pol": {
+              "common": "Abchazja",
+              "official": "Republika Abchazji"
+            },
+            "por": {
+              "common": "Abecásia",
+              "official": "República da Abecásia"
+            },
+            "rus": {
+              "common": "Абхазия",
+              "official": "Республика Абхазия"
+            },
+            "spa": {
+              "common": "Abjasia",
+              "official": "República de Abjasia"
+            },
+            "swe": {
+              "common": "Abchazien",
+              "official": "Republiken Abchazien"
+            },
+            "tur": {
+              "common": "Abhazya",
+              "official": "Abhazya Cumhuriyeti"
+            },
+            "zho": {
+              "common": "阿布哈兹",
+              "official": "阿布哈兹共和国"
+            }
+          }
         },
         "capitals": [
           {
@@ -23,7 +99,25 @@
           }
         ],
         "flag": {
-          "emoji": ""
+          "colors": {
+            "dominant": "",
+            "palette": [],
+            "prominent": "",
+            "swatches": {
+              "dark_muted": null,
+              "dark_vibrant": null,
+              "light_muted": null,
+              "light_vibrant": null,
+              "muted": null,
+              "vibrant": null
+            }
+          },
+          "description": "",
+          "emoji": "",
+          "html_entity": "",
+          "unicode": "",
+          "url_png": "",
+          "url_svg": ""
         },
         "_meta": {
           "lastUpdatedTimestamp": 1783005246
@@ -31,7 +125,132 @@
       },
       {
         "names": {
-          "common": "Afghanistan"
+          "alternates": [
+            "Afġānistān",
+            "Islamic Emirate of Afghanistan"
+          ],
+          "common": "Afghanistan",
+          "native": {
+            "prs": {
+              "common": "افغانستان",
+              "official": "جمهوری اسلامی افغانستان"
+            },
+            "pus": {
+              "common": "افغانستان",
+              "official": "د افغانستان اسلامي جمهوریت"
+            },
+            "tuk": {
+              "common": "Owganystan",
+              "official": "Owganystan Yslam Respublikasy"
+            }
+          },
+          "official": "Islamic Republic of Afghanistan",
+          "translations": {
+            "ara": {
+              "common": "أفغانستان",
+              "official": "جمهورية أففانستان الإسلامية"
+            },
+            "bre": {
+              "common": "Afghanistan",
+              "official": "Republik Islamek Afghanistan"
+            },
+            "ces": {
+              "common": "Afghánistán",
+              "official": "Afghánská islámská republika"
+            },
+            "cym": {
+              "common": "Affganistan",
+              "official": "Gweriniaeth Islamaidd Affganistan"
+            },
+            "deu": {
+              "common": "Afghanistan",
+              "official": "Islamische Republik Afghanistan"
+            },
+            "est": {
+              "common": "Afganistan",
+              "official": "Afganistani Islamivabariik"
+            },
+            "fas": {
+              "common": "افغانستان",
+              "official": "جمهوری اسلامی افغانستان"
+            },
+            "fin": {
+              "common": "Afganistan",
+              "official": "Afganistanin islamilainen tasavalta"
+            },
+            "fra": {
+              "common": "Afghanistan",
+              "official": "République islamique d'Afghanistan"
+            },
+            "hrv": {
+              "common": "Afganistan",
+              "official": "Islamska Republika Afganistan"
+            },
+            "hun": {
+              "common": "Afganisztán",
+              "official": "Afganisztáni Iszlám Köztársaság"
+            },
+            "ind": {
+              "common": "Afganistan",
+              "official": "Keamiran Islam Afganistan"
+            },
+            "ita": {
+              "common": "Afghanistan",
+              "official": "Repubblica islamica dell'Afghanistan"
+            },
+            "jpn": {
+              "common": "アフガニスタン",
+              "official": "アフガニスタン·イスラム共和国"
+            },
+            "kor": {
+              "common": "아프가니스탄",
+              "official": "아프가니스탄 이슬람 공화국"
+            },
+            "nld": {
+              "common": "Afghanistan",
+              "official": "Islamitische Republiek Afghanistan"
+            },
+            "pol": {
+              "common": "Afganistan",
+              "official": "Islamska Republika Afganistanu"
+            },
+            "por": {
+              "common": "Afeganistão",
+              "official": "República Islâmica do Afeganistão"
+            },
+            "rus": {
+              "common": "Афганистан",
+              "official": "Исламская Республика Афганистан"
+            },
+            "slk": {
+              "common": "Afganistan",
+              "official": "Afgánsky islamský štát"
+            },
+            "spa": {
+              "common": "Afganistán",
+              "official": "República Islámica de Afganistán"
+            },
+            "srp": {
+              "common": "Авганистан",
+              "official": "Исламска Република Авганистан"
+            },
+            "swe": {
+              "common": "Afghanistan",
+              "official": "Islamiska republiken Afghanistan"
+            },
+            "tur": {
+              "common": "Afganistan",
+              "official": "Afganistan İslam Cumhuriyeti"
+            },
+            "urd": {
+              "common": "افغانستان",
+              "official": "اسلامی جمہوریہ افغانستان"
+            },
+            "zho": {
+              "common": "阿富汗",
+              "official": "阿富汗伊斯兰共和国"
+            }
+          }
         },
         "capitals": [
           {
@@ -51,7 +270,58 @@
           }
         ],
         "flag": {
-          "emoji": "🇦🇫"
+          "colors": {
+            "dominant": "#d43e34",
+            "palette": [
+              {
+                "hex": "#d43e34",
+                "proportion": 0.2923709456372773
+              },
+              {
+                "hex": "#000000",
+                "proportion": 0.30904522613065327
+              },
+              {
+                "hex": "#007e3d",
+                "proportion": 0.3074463225216994
+              },
+              {
+                "hex": "#ecd9c3",
+                "proportion": 0.058017359524897213
+              },
+              {
+                "hex": "#777975",
+                "proportion": 0.021242576518958427
+              },
+              {
+                "hex": "#7fb68e",
+                "proportion": 0.010050251256281407
+              },
+              {
+                "hex": "#0a1211",
+                "proportion": 0.0013704888076747374
+              },
+              {
+                "hex": "#196909",
+                "proportion": 0.00045682960255824577
+              }
+            ],
+            "prominent": "#000000",
+            "swatches": {
+              "dark_muted": "#0a1211",
+              "dark_vibrant": null,
+              "light_muted": "#ecd9c3",
+              "light_vibrant": "#7fb68e",
+              "muted": "#777975",
+              "vibrant": "#d43e34"
+            }
+          },
+          "description": "The flag of the Islamic Emirate of Afghanistan has a white field with Arabic inscriptions — the Shahada — in black across its center.",
+          "emoji": "🇦🇫",
+          "html_entity": "&#127462;&#127467;",
+          "unicode": "U+1F1E6 U+1F1EB",
+          "url_png": "https://flags.restcountries.com/v5/w640/af.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/af.svg"
         },
         "_meta": {
           "lastUpdatedTimestamp": 1783005246
@@ -59,7 +329,124 @@
       },
       {
         "names": {
-          "common": "Albania"
+          "alternates": [
+            "Shqipëri",
+            "Shqipnia"
+          ],
+          "common": "Albania",
+          "native": {
+            "sqi": {
+              "common": "Shqipëria",
+              "official": "Republika e Shqipërisë"
+            }
+          },
+          "official": "Republic of Albania",
+          "translations": {
+            "ara": {
+              "common": "ألبانيا",
+              "official": "جمهورية ألبانيا"
+            },
+            "bre": {
+              "common": "Albania",
+              "official": "Republik Albania"
+            },
+            "ces": {
+              "common": "Albánie",
+              "official": "Albánská republika"
+            },
+            "cym": {
+              "common": "Albania",
+              "official": "Gweriniaeth Albania"
+            },
+            "deu": {
+              "common": "Albanien",
+              "official": "Republik Albanien"
+            },
+            "est": {
+              "common": "Albaania",
+              "official": "Albaania Vabariik"
+            },
+            "fas": {
+              "common": "آلبانی",
+              "official": "جمهوری آلبانی"
+            },
+            "fin": {
+              "common": "Albania",
+              "official": "Albanian tasavalta"
+            },
+            "fra": {
+              "common": "Albanie",
+              "official": "République d'Albanie"
+            },
+            "hrv": {
+              "common": "Albanija",
+              "official": "Republika Albanija"
+            },
+            "hun": {
+              "common": "Albánia",
+              "official": "Albán Köztársaság"
+            },
+            "ind": {
+              "common": "Albania",
+              "official": "Republik Albania"
+            },
+            "ita": {
+              "common": "Albania",
+              "official": "Repubblica d'Albania"
+            },
+            "jpn": {
+              "common": "アルバニア",
+              "official": "アルバニア共和国"
+            },
+            "kor": {
+              "common": "알바니아",
+              "official": "알바니아 공화국"
+            },
+            "nld": {
+              "common": "Albanië",
+              "official": "Republiek Albanië"
+            },
+            "pol": {
+              "common": "Albania",
+              "official": "Republika Albanii"
+            },
+            "por": {
+              "common": "Albânia",
+              "official": "República da Albânia"
+            },
+            "rus": {
+              "common": "Албания",
+              "official": "Республика Албания"
+            },
+            "slk": {
+              "common": "Albánsko",
+              "official": "Albánska republika"
+            },
+            "spa": {
+              "common": "Albania",
+              "official": "República de Albania"
+            },
+            "srp": {
+              "common": "Албанија",
+              "official": "Република Албанија"
+            },
+            "swe": {
+              "common": "Albanien",
+              "official": "Republiken Albanien"
+            },
+            "tur": {
+              "common": "Arnavutluk",
+              "official": "Arnavutluk Cumhuriyeti"
+            },
+            "urd": {
+              "common": "البانیا",
+              "official": "جمہوریہ البانیا"
+            },
+            "zho": {
+              "common": "阿尔巴尼亚",
+              "official": "阿尔巴尼亚共和国"
+            }
+          }
         },
         "capitals": [
           {
@@ -79,7 +466,58 @@
           }
         ],
         "flag": {
-          "emoji": "🇦🇱"
+          "colors": {
+            "dominant": "#010000",
+            "palette": [
+              {
+                "hex": "#010000",
+                "proportion": 0.11504802561366062
+              },
+              {
+                "hex": "#ff1419",
+                "proportion": 0.8661686232657417
+              },
+              {
+                "hex": "#8c0002",
+                "proportion": 0.008537886872998933
+              },
+              {
+                "hex": "#690304",
+                "proportion": 0.0017075773745997866
+              },
+              {
+                "hex": "#5f0000",
+                "proportion": 0.0014941302027748132
+              },
+              {
+                "hex": "#b40a0e",
+                "proportion": 0.0012806830309498398
+              },
+              {
+                "hex": "#c00005",
+                "proportion": 0.00384204909284952
+              },
+              {
+                "hex": "#d30e12",
+                "proportion": 0.00192102454642476
+              }
+            ],
+            "prominent": "#ff1419",
+            "swatches": {
+              "dark_muted": "#5f0000",
+              "dark_vibrant": "#8c0002",
+              "light_muted": null,
+              "light_vibrant": null,
+              "muted": "#d30e12",
+              "vibrant": "#ff1419"
+            }
+          },
+          "description": "The flag of Albania features a silhouetted double-headed black eagle at the center of a red field.",
+          "emoji": "🇦🇱",
+          "html_entity": "&#127462;&#127473;",
+          "unicode": "U+1F1E6 U+1F1F1",
+          "url_png": "https://flags.restcountries.com/v5/w640/al.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/al.svg"
         },
         "_meta": {
           "lastUpdatedTimestamp": 1783005246
@@ -87,7 +525,124 @@
       },
       {
         "names": {
-          "common": "Algeria"
+          "alternates": [
+            "Dzayer",
+            "Algérie"
+          ],
+          "common": "Algeria",
+          "native": {
+            "ara": {
+              "common": "الجزائر",
+              "official": "الجمهورية الديمقراطية الشعبية الجزائرية"
+            }
+          },
+          "official": "People's Democratic Republic of Algeria",
+          "translations": {
+            "ara": {
+              "common": "الجزائر",
+              "official": "الجمهورية الديمقراطية الشعبية الجزائرية"
+            },
+            "bre": {
+              "common": "Aljeria",
+              "official": "Republik Aljerian Demokratel ha Poblel"
+            },
+            "ces": {
+              "common": "Alžírsko",
+              "official": "Alžírská demokratická a lidová republika"
+            },
+            "cym": {
+              "common": "Algeria",
+              "official": "Gweriniaeth Ddemocrataidd Pobl Algeria"
+            },
+            "deu": {
+              "common": "Algerien",
+              "official": "Demokratische Volksrepublik Algerien"
+            },
+            "est": {
+              "common": "Alžeeria",
+              "official": "Alžeeria Demokraatlik Rahvavabariik"
+            },
+            "fas": {
+              "common": "الجزایر",
+              "official": "جمهوری دموکراتیک خلق الجزایر"
+            },
+            "fin": {
+              "common": "Algeria",
+              "official": "Algerian demokraattinen kansantasavalta"
+            },
+            "fra": {
+              "common": "Algérie",
+              "official": "République démocratique et populaire d'Algérie"
+            },
+            "hrv": {
+              "common": "Alžir",
+              "official": "Narodna Demokratska Republika Alžir"
+            },
+            "hun": {
+              "common": "Algéria",
+              "official": "Algériai Népi Demokratikus Köztársaság"
+            },
+            "ind": {
+              "common": "Aljazair",
+              "official": "Republik Demokratik Rakyat Aljazair"
+            },
+            "ita": {
+              "common": "Algeria",
+              "official": "Repubblica popolare democratica di Algeria"
+            },
+            "jpn": {
+              "common": "アルジェリア",
+              "official": "アルジェリア人民民主共和国"
+            },
+            "kor": {
+              "common": "알제리",
+              "official": "알제리 인민 민주 공화국"
+            },
+            "nld": {
+              "common": "Algerije",
+              "official": "Democratische Volksrepubliek Algerije"
+            },
+            "pol": {
+              "common": "Algieria",
+              "official": "Algierska Republika Ludowo-Demokratyczna"
+            },
+            "por": {
+              "common": "Argélia",
+              "official": "República Argelina Democrática e Popular"
+            },
+            "rus": {
+              "common": "Алжир",
+              "official": "Народно-Демократическая Республика Алжир"
+            },
+            "slk": {
+              "common": "Alžírsko",
+              "official": "Alžírska demokratická ľudová republika"
+            },
+            "spa": {
+              "common": "Argelia",
+              "official": "República Argelina Democrática y Popular"
+            },
+            "srp": {
+              "common": "Алжир",
+              "official": "Народна Демократска Република Алжир"
+            },
+            "swe": {
+              "common": "Algeriet",
+              "official": "Demokratiska folkrepubliken Algeriet"
+            },
+            "tur": {
+              "common": "Cezayir",
+              "official": "Cezayir Demokratik Halk Cumhuriyeti"
+            },
+            "urd": {
+              "common": "الجزائر",
+              "official": "عوامی جمہوری جمہوریہ الجزائر"
+            },
+            "zho": {
+              "common": "阿尔及利亚",
+              "official": "阿尔及利亚人民民主共和国"
+            }
+          }
         },
         "capitals": [
           {
@@ -107,7 +662,58 @@
           }
         ],
         "flag": {
-          "emoji": "🇩🇿"
+          "colors": {
+            "dominant": "#006733",
+            "palette": [
+              {
+                "hex": "#006733",
+                "proportion": 0.45751484696208317
+              },
+              {
+                "hex": "#fbfaf5",
+                "proportion": 0.46825034262220194
+              },
+              {
+                "hex": "#d0143e",
+                "proportion": 0.06121516674280494
+              },
+              {
+                "hex": "#fff9fc",
+                "proportion": 0.003426222019186843
+              },
+              {
+                "hex": "#edf2ef",
+                "proportion": 0.0061671996345363175
+              },
+              {
+                "hex": "#305530",
+                "proportion": 0.002740977615349475
+              },
+              {
+                "hex": "#f3cdd4",
+                "proportion": 0.0006852444038373687
+              },
+              {
+                "hex": "#009895",
+                "proportion": 0
+              }
+            ],
+            "prominent": "#fbfaf5",
+            "swatches": {
+              "dark_muted": "#305530",
+              "dark_vibrant": null,
+              "light_muted": "#f3cdd4",
+              "light_vibrant": null,
+              "muted": "#009895",
+              "vibrant": "#d0143e"
+            }
+          },
+          "description": "The flag of Algeria features two equal vertical bands of green and white. A five-pointed red star within a fly-side facing red crescent is centered over the two-color boundary.",
+          "emoji": "🇩🇿",
+          "html_entity": "&#127465;&#127487;",
+          "unicode": "U+1F1E9 U+1F1FF",
+          "url_png": "https://flags.restcountries.com/v5/w640/dz.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/dz.svg"
         },
         "_meta": {
           "lastUpdatedTimestamp": 1783005246
@@ -115,7 +721,128 @@
       },
       {
         "names": {
-          "common": "American Samoa"
+          "alternates": [
+            "Amerika Sāmoa",
+            "Amelika Sāmoa"
+          ],
+          "common": "American Samoa",
+          "native": {
+            "eng": {
+              "common": "American Samoa",
+              "official": "American Samoa"
+            },
+            "smo": {
+              "common": "Sāmoa Amelika",
+              "official": "Sāmoa Amelika"
+            }
+          },
+          "official": "American Samoa",
+          "translations": {
+            "ara": {
+              "common": "ساموا الأمريكية",
+              "official": "ساموا الأمريكية"
+            },
+            "bre": {
+              "common": "Samoa Amerikan",
+              "official": "Samoa Amerikan"
+            },
+            "ces": {
+              "common": "Americká Samoa",
+              "official": "Americká Samoa"
+            },
+            "cym": {
+              "common": "American Samoa",
+              "official": "American Samoa"
+            },
+            "deu": {
+              "common": "Amerikanisch-Samoa",
+              "official": "Amerikanisch-Samoa"
+            },
+            "est": {
+              "common": "Ameerika Samoa",
+              "official": "Ameerika Samoa"
+            },
+            "fas": {
+              "common": "ساموآی آمریکا",
+              "official": "ساموآی آمریکا"
+            },
+            "fin": {
+              "common": "Amerikan Samoa",
+              "official": "Amerikan Samoa"
+            },
+            "fra": {
+              "common": "Samoa américaines",
+              "official": "Samoa américaines"
+            },
+            "hrv": {
+              "common": "Američka Samoa",
+              "official": "američka Samoa"
+            },
+            "hun": {
+              "common": "Szamoa",
+              "official": "Szamoa"
+            },
+            "ind": {
+              "common": "Samoa Amerika",
+              "official": "Samoa Amerika"
+            },
+            "ita": {
+              "common": "Samoa Americane",
+              "official": "Samoa americane"
+            },
+            "jpn": {
+              "common": "アメリカ領サモア",
+              "official": "米サモア"
+            },
+            "kor": {
+              "common": "아메리칸사모아",
+              "official": "아메리칸사모아"
+            },
+            "nld": {
+              "common": "Amerikaans Samoa",
+              "official": "Amerikaans Samoa"
+            },
+            "pol": {
+              "common": "Samoa Amerykańskie",
+              "official": "Samoa Amerykańskie"
+            },
+            "por": {
+              "common": "Samoa Americana",
+              "official": "Samoa americana"
+            },
+            "rus": {
+              "common": "Американское Самоа",
+              "official": "американское Самоа"
+            },
+            "slk": {
+              "common": "Americká Samoa",
+              "official": "Americká Samoa"
+            },
+            "spa": {
+              "common": "Samoa Americana",
+              "official": "Samoa Americana"
+            },
+            "srp": {
+              "common": "Америчка Самоа",
+              "official": "Америчка Самоа"
+            },
+            "swe": {
+              "common": "Amerikanska Samoa",
+              "official": "Amerikanska Samoa"
+            },
+            "tur": {
+              "common": "Amerikan Samoası",
+              "official": "Amerikan Samoası"
+            },
+            "urd": {
+              "common": "امریکی سمووا",
+              "official": "امریکی سمووا"
+            },
+            "zho": {
+              "common": "美属萨摩亚",
+              "official": "美属萨摩亚"
+            }
+          }
         },
         "capitals": [
           {
@@ -135,7 +862,58 @@
           }
         ],
         "flag": {
-          "emoji": "🇦🇸"
+          "colors": {
+            "dominant": "#030266",
+            "palette": [
+              {
+                "hex": "#030266",
+                "proportion": 0.4922184925236497
+              },
+              {
+                "hex": "#f8f6f0",
+                "proportion": 0.3106499847421422
+              },
+              {
+                "hex": "#732b00",
+                "proportion": 0.07476350320415014
+              },
+              {
+                "hex": "#c7380c",
+                "proportion": 0.09459871833994507
+              },
+              {
+                "hex": "#e9e8ee",
+                "proportion": 0.019835215135794934
+              },
+              {
+                "hex": "#220e57",
+                "proportion": 0.003967043027158987
+              },
+              {
+                "hex": "#04006c",
+                "proportion": 0.003967043027158987
+              },
+              {
+                "hex": "#006367",
+                "proportion": 0
+              }
+            ],
+            "prominent": "#030266",
+            "swatches": {
+              "dark_muted": "#732b00",
+              "dark_vibrant": "#030266",
+              "light_muted": "#f8f6f0",
+              "light_vibrant": null,
+              "muted": "#006367",
+              "vibrant": "#c7380c"
+            }
+          },
+          "description": "",
+          "emoji": "🇦🇸",
+          "html_entity": "&#127462;&#127480;",
+          "unicode": "U+1F1E6 U+1F1F8",
+          "url_png": "https://flags.restcountries.com/v5/w640/as.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/as.svg"
         },
         "_meta": {
           "lastUpdatedTimestamp": 1783005246
@@ -143,7 +921,121 @@
       },
       {
         "names": {
-          "common": "Andorra"
+          "alternates": [],
+          "common": "Andorra",
+          "native": {
+            "cat": {
+              "common": "Andorra",
+              "official": "Principat d'Andorra"
+            }
+          },
+          "official": "Principality of Andorra",
+          "translations": {
+            "ara": {
+              "common": "أندورا",
+              "official": "إمارة أندورا"
+            },
+            "bre": {
+              "common": "Andorra",
+              "official": "Priñselezh Andorra"
+            },
+            "ces": {
+              "common": "Andorra",
+              "official": "Andorrské knížectví"
+            },
+            "cym": {
+              "common": "Andorra",
+              "official": "Tywysogaeth Andorra"
+            },
+            "deu": {
+              "common": "Andorra",
+              "official": "Fürstentum Andorra"
+            },
+            "est": {
+              "common": "Andorra",
+              "official": "Andorra Vürstiriik"
+            },
+            "fas": {
+              "common": "آندورا",
+              "official": "شاهزاده‌نشین آندورا"
+            },
+            "fin": {
+              "common": "Andorra",
+              "official": "Andorran ruhtinaskunta"
+            },
+            "fra": {
+              "common": "Andorre",
+              "official": "Principauté d'Andorre"
+            },
+            "hrv": {
+              "common": "Andora",
+              "official": "Kneževina Andora"
+            },
+            "hun": {
+              "common": "Andorra",
+              "official": "Andorra"
+            },
+            "ind": {
+              "common": "Andorra",
+              "official": "Kepangeranan Andorra"
+            },
+            "ita": {
+              "common": "Andorra",
+              "official": "Principato di Andorra"
+            },
+            "jpn": {
+              "common": "アンドラ",
+              "official": "アンドラ公国"
+            },
+            "kor": {
+              "common": "안도라",
+              "official": "안도라 공국"
+            },
+            "nld": {
+              "common": "Andorra",
+              "official": "Prinsdom Andorra"
+            },
+            "pol": {
+              "common": "Andora",
+              "official": "Księstwo Andory"
+            },
+            "por": {
+              "common": "Andorra",
+              "official": "Principado de Andorra"
+            },
+            "rus": {
+              "common": "Андорра",
+              "official": "Княжество Андорра"
+            },
+            "slk": {
+              "common": "Andorra",
+              "official": "Andorrské kniežatstvo"
+            },
+            "spa": {
+              "common": "Andorra",
+              "official": "Principado de Andorra"
+            },
+            "srp": {
+              "common": "Андора",
+              "official": "Кнежевина Андора"
+            },
+            "swe": {
+              "common": "Andorra",
+              "official": "Furstendömet Andorra"
+            },
+            "tur": {
+              "common": "Andorra",
+              "official": "Andorra Prensliği"
+            },
+            "urd": {
+              "common": "انڈورا",
+              "official": "اماراتِ انڈورا"
+            },
+            "zho": {
+              "common": "安道尔",
+              "official": "安道尔公国"
+            }
+          }
         },
         "capitals": [
           {
@@ -163,7 +1055,58 @@
           }
         ],
         "flag": {
-          "emoji": "🇦🇩"
+          "colors": {
+            "dominant": "#ffda11",
+            "palette": [
+              {
+                "hex": "#ffda11",
+                "proportion": 0.2675103643901375
+              },
+              {
+                "hex": "#d20541",
+                "proportion": 0.33929740344752346
+              },
+              {
+                "hex": "#b69667",
+                "proportion": 0.062404538511891774
+              },
+              {
+                "hex": "#0707a3",
+                "proportion": 0.3203142046694305
+              },
+              {
+                "hex": "#dba923",
+                "proportion": 0.007418721361553567
+              },
+              {
+                "hex": "#fff8e6",
+                "proportion": 0.002181976871045167
+              },
+              {
+                "hex": "#b89036",
+                "proportion": 0.0008727907484180668
+              },
+              {
+                "hex": "#34a4cb",
+                "proportion": 0
+              }
+            ],
+            "prominent": "#d20541",
+            "swatches": {
+              "dark_muted": null,
+              "dark_vibrant": "#0707a3",
+              "light_muted": "#fff8e6",
+              "light_vibrant": "#ffda11",
+              "muted": "#b69667",
+              "vibrant": "#d20541"
+            }
+          },
+          "description": "The flag of Andorra features three equal vertical bands of blue, yellow and red, with the coat of arms of Andorra centered in the yellow band.",
+          "emoji": "🇦🇩",
+          "html_entity": "&#127462;&#127465;",
+          "unicode": "U+1F1E6 U+1F1E9",
+          "url_png": "https://flags.restcountries.com/v5/w640/ad.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/ad.svg"
         },
         "_meta": {
           "lastUpdatedTimestamp": 1783005246
@@ -171,7 +1114,123 @@
       },
       {
         "names": {
-          "common": "Angola"
+          "alternates": [
+            "ʁɛpublika de an'ɡɔla"
+          ],
+          "common": "Angola",
+          "native": {
+            "por": {
+              "common": "Angola",
+              "official": "República de Angola"
+            }
+          },
+          "official": "Republic of Angola",
+          "translations": {
+            "ara": {
+              "common": "جمهورية أنغولا",
+              "official": "أنغولا"
+            },
+            "bre": {
+              "common": "Angola",
+              "official": "Republik Angola"
+            },
+            "ces": {
+              "common": "Angola",
+              "official": "Angolská republika"
+            },
+            "cym": {
+              "common": "Angola",
+              "official": "Gweriniaeth Angola"
+            },
+            "deu": {
+              "common": "Angola",
+              "official": "Republik Angola"
+            },
+            "est": {
+              "common": "Angola",
+              "official": "Angola Vabariik"
+            },
+            "fas": {
+              "common": "آنگولا",
+              "official": "جمهوری آنگولا"
+            },
+            "fin": {
+              "common": "Angola",
+              "official": "Angolan tasavalta"
+            },
+            "fra": {
+              "common": "Angola",
+              "official": "République d'Angola"
+            },
+            "hrv": {
+              "common": "Angola",
+              "official": "Republika Angola"
+            },
+            "hun": {
+              "common": "Angola",
+              "official": "Angola"
+            },
+            "ind": {
+              "common": "Angola",
+              "official": "Republik Angola"
+            },
+            "ita": {
+              "common": "Angola",
+              "official": "Repubblica dell'Angola"
+            },
+            "jpn": {
+              "common": "アンゴラ",
+              "official": "アンゴラ共和国"
+            },
+            "kor": {
+              "common": "앙골라",
+              "official": "앙골라 공화국"
+            },
+            "nld": {
+              "common": "Angola",
+              "official": "Republiek Angola"
+            },
+            "pol": {
+              "common": "Angola",
+              "official": "Republika Angoli"
+            },
+            "por": {
+              "common": "Angola",
+              "official": "República de Angola"
+            },
+            "rus": {
+              "common": "Ангола",
+              "official": "Республика Ангола"
+            },
+            "slk": {
+              "common": "Angola",
+              "official": "Angolská republika"
+            },
+            "spa": {
+              "common": "Angola",
+              "official": "República de Angola"
+            },
+            "srp": {
+              "common": "Ангола",
+              "official": "Република Ангола"
+            },
+            "swe": {
+              "common": "Angola",
+              "official": "Republiken Angola"
+            },
+            "tur": {
+              "common": "Angola",
+              "official": "Angola Cumhuriyeti"
+            },
+            "urd": {
+              "common": "انگولہ",
+              "official": "جمہوریہ انگولہ"
+            },
+            "zho": {
+              "common": "安哥拉",
+              "official": "安哥拉共和国"
+            }
+          }
         },
         "capitals": [
           {
@@ -191,7 +1250,58 @@
           }
         ],
         "flag": {
-          "emoji": "🇦🇴"
+          "colors": {
+            "dominant": "#d31114",
+            "palette": [
+              {
+                "hex": "#d31114",
+                "proportion": 0.48058474189127454
+              },
+              {
+                "hex": "#000000",
+                "proportion": 0.46116948378254913
+              },
+              {
+                "hex": "#facd00",
+                "proportion": 0.03951576062128826
+              },
+              {
+                "hex": "#060002",
+                "proportion": 0.005025125628140704
+              },
+              {
+                "hex": "#4c4002",
+                "proportion": 0.005025125628140704
+              },
+              {
+                "hex": "#9b8200",
+                "proportion": 0.002740977615349475
+              },
+              {
+                "hex": "#69001b",
+                "proportion": 0.00548195523069895
+              },
+              {
+                "hex": "#212000",
+                "proportion": 0.00045682960255824577
+              }
+            ],
+            "prominent": "#d31114",
+            "swatches": {
+              "dark_muted": "#212000",
+              "dark_vibrant": "#69001b",
+              "light_muted": null,
+              "light_vibrant": "#facd00",
+              "muted": "#9b8200",
+              "vibrant": "#d31114"
+            }
+          },
+          "description": "The flag of Angola features two equal horizontal bands of red and black, with a yellow emblem at its centre. This emblem consists of a five-pointed star within the hoist-side facing half of a cogwheel that is crossed on its lower end by a machete.",
+          "emoji": "🇦🇴",
+          "html_entity": "&#127462;&#127476;",
+          "unicode": "U+1F1E6 U+1F1F4",
+          "url_png": "https://flags.restcountries.com/v5/w640/ao.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/ao.svg"
         },
         "_meta": {
           "lastUpdatedTimestamp": 1783005246
@@ -199,7 +1309,121 @@
       },
       {
         "names": {
-          "common": "Anguilla"
+          "alternates": [],
+          "common": "Anguilla",
+          "native": {
+            "eng": {
+              "common": "Anguilla",
+              "official": "Anguilla"
+            }
+          },
+          "official": "Anguilla",
+          "translations": {
+            "ara": {
+              "common": "أنغويلا",
+              "official": "أنغويلا"
+            },
+            "bre": {
+              "common": "Anguilla",
+              "official": "Anguilla"
+            },
+            "ces": {
+              "common": "Anguilla",
+              "official": "Anguilla"
+            },
+            "cym": {
+              "common": "Anguilla",
+              "official": "Anguilla"
+            },
+            "deu": {
+              "common": "Anguilla",
+              "official": "Anguilla"
+            },
+            "est": {
+              "common": "Anguilla",
+              "official": "Anguilla"
+            },
+            "fas": {
+              "common": "آنگویلا",
+              "official": "آنگویلا"
+            },
+            "fin": {
+              "common": "Anguilla",
+              "official": "Anguilla"
+            },
+            "fra": {
+              "common": "Anguilla",
+              "official": "Anguilla"
+            },
+            "hrv": {
+              "common": "Angvila",
+              "official": "Anguilla"
+            },
+            "hun": {
+              "common": "Anguilla",
+              "official": "Anguilla"
+            },
+            "ind": {
+              "common": "Anguilla",
+              "official": "Anguilla"
+            },
+            "ita": {
+              "common": "Anguilla",
+              "official": "Anguilla"
+            },
+            "jpn": {
+              "common": "アンギラ",
+              "official": "アングィラ"
+            },
+            "kor": {
+              "common": "앵귈라",
+              "official": "앵귈라"
+            },
+            "nld": {
+              "common": "Anguilla",
+              "official": "Anguilla"
+            },
+            "pol": {
+              "common": "Anguilla",
+              "official": "Anguilla"
+            },
+            "por": {
+              "common": "Anguilla",
+              "official": "Anguilla"
+            },
+            "rus": {
+              "common": "Ангилья",
+              "official": "Ангилья"
+            },
+            "slk": {
+              "common": "Anguilla",
+              "official": "Anguilla"
+            },
+            "spa": {
+              "common": "Anguilla",
+              "official": "Anguila"
+            },
+            "srp": {
+              "common": "Ангвила",
+              "official": "Ангвила"
+            },
+            "swe": {
+              "common": "Anguilla",
+              "official": "Anguilla"
+            },
+            "tur": {
+              "common": "Anguilla",
+              "official": "Anguilla"
+            },
+            "urd": {
+              "common": "اینگویلا",
+              "official": "اینگویلا"
+            },
+            "zho": {
+              "common": "安圭拉",
+              "official": "安圭拉"
+            }
+          }
         },
         "capitals": [
           {
@@ -219,7 +1443,58 @@
           }
         ],
         "flag": {
-          "emoji": "🇦🇮"
+          "colors": {
+            "dominant": "#0c226c",
+            "palette": [
+              {
+                "hex": "#0c226c",
+                "proportion": 0.7451937747940189
+              },
+              {
+                "hex": "#e79a6c",
+                "proportion": 0.20353982300884957
+              },
+              {
+                "hex": "#dadff5",
+                "proportion": 0.04516325907842539
+              },
+              {
+                "hex": "#677aa4",
+                "proportion": 0.0042722001830942935
+              },
+              {
+                "hex": "#767da7",
+                "proportion": 0.00091547146780592
+              },
+              {
+                "hex": "#526ba4",
+                "proportion": 0.0006103143118706134
+              },
+              {
+                "hex": "#b40a0e",
+                "proportion": 0.0003051571559353067
+              },
+              {
+                "hex": "#212c82",
+                "proportion": 0
+              }
+            ],
+            "prominent": "#0c226c",
+            "swatches": {
+              "dark_muted": "#212c82",
+              "dark_vibrant": "#0c226c",
+              "light_muted": "#dadff5",
+              "light_vibrant": "#e79a6c",
+              "muted": "#767da7",
+              "vibrant": "#b40a0e"
+            }
+          },
+          "description": "",
+          "emoji": "🇦🇮",
+          "html_entity": "&#127462;&#127470;",
+          "unicode": "U+1F1E6 U+1F1EE",
+          "url_png": "https://flags.restcountries.com/v5/w640/ai.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/ai.svg"
         },
         "_meta": {
           "lastUpdatedTimestamp": 1783005246
@@ -227,11 +1502,171 @@
       },
       {
         "names": {
-          "common": "Antarctica"
+          "alternates": [],
+          "common": "Antarctica",
+          "native": {},
+          "official": "Antarctica",
+          "translations": {
+            "ara": {
+              "common": "أنتارتيكا",
+              "official": "أنتارتيكا"
+            },
+            "bre": {
+              "common": "Antarktika",
+              "official": "Antarktika"
+            },
+            "ces": {
+              "common": "Antarktida",
+              "official": "Antarktida"
+            },
+            "cym": {
+              "common": "Yr Antarctig",
+              "official": "Yr Antarctig"
+            },
+            "deu": {
+              "common": "Antarktis",
+              "official": "Antarktika"
+            },
+            "est": {
+              "common": "Antarktika",
+              "official": "Antarktika"
+            },
+            "fas": {
+              "common": "جنوبگان",
+              "official": "جنوبگان"
+            },
+            "fin": {
+              "common": "Etelämanner",
+              "official": "Etelämanner"
+            },
+            "fra": {
+              "common": "Antarctique",
+              "official": "Antarctique"
+            },
+            "hrv": {
+              "common": "Antarktika",
+              "official": "Antarktika"
+            },
+            "hun": {
+              "common": "Antarktisz",
+              "official": "Antarktisz"
+            },
+            "ind": {
+              "common": "Antartika",
+              "official": "Antarktik"
+            },
+            "ita": {
+              "common": "Antartide",
+              "official": "Antartide"
+            },
+            "jpn": {
+              "common": "南極",
+              "official": "南極大陸"
+            },
+            "kor": {
+              "common": "남극",
+              "official": "남극"
+            },
+            "nld": {
+              "common": "Antarctica",
+              "official": "Antarctica"
+            },
+            "pol": {
+              "common": "Antarktyka",
+              "official": "Antarktyka"
+            },
+            "por": {
+              "common": "Antártida",
+              "official": "Antártica"
+            },
+            "rus": {
+              "common": "Антарктида",
+              "official": "Антарктида"
+            },
+            "slk": {
+              "common": "Antarktída",
+              "official": "Antarktída"
+            },
+            "spa": {
+              "common": "Antártida",
+              "official": "Antártida"
+            },
+            "srp": {
+              "common": "Антарктик",
+              "official": "Антарктик"
+            },
+            "swe": {
+              "common": "Antarktis",
+              "official": "Antarktis"
+            },
+            "tur": {
+              "common": "Antarktika",
+              "official": "Antarktika"
+            },
+            "urd": {
+              "common": "انٹارکٹکا",
+              "official": "انٹارکٹکا"
+            },
+            "zho": {
+              "common": "南极洲",
+              "official": "南极洲"
+            }
+          }
         },
         "capitals": [],
         "flag": {
-          "emoji": "🇦🇶"
+          "colors": {
+            "dominant": "#fcfbf7",
+            "palette": [
+              {
+                "hex": "#fcfbf7",
+                "proportion": 0.2964824120603015
+              },
+              {
+                "hex": "#00a3dd",
+                "proportion": 0.6788487894015532
+              },
+              {
+                "hex": "#e5f5fb",
+                "proportion": 0.0219278209227958
+              },
+              {
+                "hex": "#90d2f4",
+                "proportion": 0.00045682960255824577
+              },
+              {
+                "hex": "#75c5ed",
+                "proportion": 0.001827318410232983
+              },
+              {
+                "hex": "#73cce8",
+                "proportion": 0.00045682960255824577
+              },
+              {
+                "hex": "#f5ffd2",
+                "proportion": 0
+              },
+              {
+                "hex": "#f5ffd2",
+                "proportion": 0
+              }
+            ],
+            "prominent": "#00a3dd",
+            "swatches": {
+              "dark_muted": null,
+              "dark_vibrant": null,
+              "light_muted": "#90d2f4",
+              "light_vibrant": "#73cce8",
+              "muted": "#75c5ed",
+              "vibrant": "#00a3dd"
+            }
+          },
+          "description": "",
+          "emoji": "🇦🇶",
+          "html_entity": "&#127462;&#127478;",
+          "unicode": "U+1F1E6 U+1F1F6",
+          "url_png": "https://flags.restcountries.com/v5/w640/aq.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/aq.svg"
         },
         "_meta": {
           "lastUpdatedTimestamp": 1783005246
@@ -239,7 +1674,123 @@
       },
       {
         "names": {
-          "common": "Antigua and Barbuda"
+          "alternates": [
+            "Antigua"
+          ],
+          "common": "Antigua and Barbuda",
+          "native": {
+            "eng": {
+              "common": "Antigua and Barbuda",
+              "official": "Antigua and Barbuda"
+            }
+          },
+          "official": "Antigua and Barbuda",
+          "translations": {
+            "ara": {
+              "common": "أنتيغوا وباربودا",
+              "official": "أنتيغوا وباربودا"
+            },
+            "bre": {
+              "common": "Antigua ha Barbuda",
+              "official": "Antigua ha Barbuda"
+            },
+            "ces": {
+              "common": "Antigua a Barbuda",
+              "official": "Antigua a Barbuda"
+            },
+            "cym": {
+              "common": "Antigwa a Barbiwda",
+              "official": "Antigwa a Barbiwda"
+            },
+            "deu": {
+              "common": "Antigua und Barbuda",
+              "official": "Antigua und Barbuda"
+            },
+            "est": {
+              "common": "Antigua ja Barbuda",
+              "official": "Antigua ja Barbuda"
+            },
+            "fas": {
+              "common": "آنتیگوا و باربودا",
+              "official": "آنتیگوا و باربودا"
+            },
+            "fin": {
+              "common": "Antigua ja Barbuda",
+              "official": "Antigua ja Barbuda"
+            },
+            "fra": {
+              "common": "Antigua-et-Barbuda",
+              "official": "Antigua-et-Barbuda"
+            },
+            "hrv": {
+              "common": "Antigva i Barbuda",
+              "official": "Antigva i Barbuda"
+            },
+            "hun": {
+              "common": "Antigua és Barbuda",
+              "official": "Antigua és Barbuda"
+            },
+            "ind": {
+              "common": "Antigua dan Barbuda",
+              "official": "Antigua dan Barbuda"
+            },
+            "ita": {
+              "common": "Antigua e Barbuda",
+              "official": "Antigua e Barbuda"
+            },
+            "jpn": {
+              "common": "アンティグア・バーブーダ",
+              "official": "アンチグアバーブーダ"
+            },
+            "kor": {
+              "common": "앤티가 바부다",
+              "official": "앤티가 바부다"
+            },
+            "nld": {
+              "common": "Antigua en Barbuda",
+              "official": "Antigua en Barbuda"
+            },
+            "pol": {
+              "common": "Antigua i Barbuda",
+              "official": "Antigua i Barbuda"
+            },
+            "por": {
+              "common": "Antígua e Barbuda",
+              "official": "Antigua e Barbuda"
+            },
+            "rus": {
+              "common": "Антигуа и Барбуда",
+              "official": "Антигуа и Барбуда"
+            },
+            "slk": {
+              "common": "Antigua a Barbuda",
+              "official": "Antigua a Barbuda"
+            },
+            "spa": {
+              "common": "Antigua y Barbuda",
+              "official": "Antigua y Barbuda"
+            },
+            "srp": {
+              "common": "Антигва и Барбуда",
+              "official": "Антигва и Барбуда"
+            },
+            "swe": {
+              "common": "Antigua och Barbuda",
+              "official": "Antigua och Barbuda"
+            },
+            "tur": {
+              "common": "Antigua ve Barbuda",
+              "official": "Antigua ve Barbuda"
+            },
+            "urd": {
+              "common": "اینٹیگوا و باربوڈا",
+              "official": "اینٹیگوا و باربوڈا"
+            },
+            "zho": {
+              "common": "安提瓜和巴布达",
+              "official": "安提瓜和巴布达"
+            }
+          }
         },
         "capitals": [
           {
@@ -259,7 +1810,58 @@
           }
         ],
         "flag": {
-          "emoji": "🇦🇬"
+          "colors": {
+            "dominant": "#2878cb",
+            "palette": [
+              {
+                "hex": "#2878cb",
+                "proportion": 0.1137505710370032
+              },
+              {
+                "hex": "#000000",
+                "proportion": 0.25216994061215164
+              },
+              {
+                "hex": "#d30f1c",
+                "proportion": 0.4997715851987209
+              },
+              {
+                "hex": "#fbe9ad",
+                "proportion": 0.12105984467793512
+              },
+              {
+                "hex": "#4a3c03",
+                "proportion": 0.00548195523069895
+              },
+              {
+                "hex": "#010209",
+                "proportion": 0.003426222019186843
+              },
+              {
+                "hex": "#b3980c",
+                "proportion": 0.003654636820465966
+              },
+              {
+                "hex": "#73120e",
+                "proportion": 0.0006852444038373687
+              }
+            ],
+            "prominent": "#d30f1c",
+            "swatches": {
+              "dark_muted": "#4a3c03",
+              "dark_vibrant": "#73120e",
+              "light_muted": "#fbe9ad",
+              "light_vibrant": null,
+              "muted": "#b3980c",
+              "vibrant": "#d30f1c"
+            }
+          },
+          "description": "The flag of Antigua and Barbuda has a red field with an inverted isosceles triangle based on the top edge and spanning the height of the field. This triangle has three horizontal bands of black, light blue and white, with the light blue band half the height of the two other bands. The top half of a golden-yellow sun is situated in the lower two-third of the black band to depict a rising sun.",
+          "emoji": "🇦🇬",
+          "html_entity": "&#127462;&#127468;",
+          "unicode": "U+1F1E6 U+1F1EC",
+          "url_png": "https://flags.restcountries.com/v5/w640/ag.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/ag.svg"
         },
         "_meta": {
           "lastUpdatedTimestamp": 1783005246
@@ -267,7 +1869,125 @@
       },
       {
         "names": {
-          "common": "Argentina"
+          "alternates": [],
+          "common": "Argentina",
+          "native": {
+            "grn": {
+              "common": "Argentina",
+              "official": "Argentine Republic"
+            },
+            "spa": {
+              "common": "Argentina",
+              "official": "República Argentina"
+            }
+          },
+          "official": "Argentine Republic",
+          "translations": {
+            "ara": {
+              "common": "الأرجنتين",
+              "official": "جمهورية الأرجنتين"
+            },
+            "bre": {
+              "common": "Arc'hantina",
+              "official": "Republik Arc'hantina"
+            },
+            "ces": {
+              "common": "Argentina",
+              "official": "Argentinská republika"
+            },
+            "cym": {
+              "common": "Ariannin",
+              "official": "Gweriniaeth yr Ariannin"
+            },
+            "deu": {
+              "common": "Argentinien",
+              "official": "Argentinische Republik"
+            },
+            "est": {
+              "common": "Argentina",
+              "official": "Argentina Vabariik"
+            },
+            "fas": {
+              "common": "آرژانتین",
+              "official": "جمهوری آرژانتین"
+            },
+            "fin": {
+              "common": "Argentiina",
+              "official": "Argentiinan tasavalta"
+            },
+            "fra": {
+              "common": "Argentine",
+              "official": "République argentine"
+            },
+            "hrv": {
+              "common": "Argentina",
+              "official": "Argentinski Republika"
+            },
+            "hun": {
+              "common": "Argentína",
+              "official": "Argentin Köztársaság"
+            },
+            "ind": {
+              "common": "Argentina",
+              "official": "Republik Argentina"
+            },
+            "ita": {
+              "common": "Argentina",
+              "official": "Repubblica Argentina"
+            },
+            "jpn": {
+              "common": "アルゼンチン",
+              "official": "アルゼンチン共和国"
+            },
+            "kor": {
+              "common": "아르헨티나",
+              "official": "아르헨티나 공화국"
+            },
+            "nld": {
+              "common": "Argentinië",
+              "official": "Argentijnse Republiek"
+            },
+            "pol": {
+              "common": "Argentyna",
+              "official": "Republika Argentyńska"
+            },
+            "por": {
+              "common": "Argentina",
+              "official": "República Argentina"
+            },
+            "rus": {
+              "common": "Аргентина",
+              "official": "Аргентинская Республика"
+            },
+            "slk": {
+              "common": "Argentína",
+              "official": "Argentínska republika"
+            },
+            "spa": {
+              "common": "Argentina",
+              "official": "República Argentina"
+            },
+            "srp": {
+              "common": "Аргентина",
+              "official": "Аргентинска Република"
+            },
+            "swe": {
+              "common": "Argentina",
+              "official": "Republiken Argentina"
+            },
+            "tur": {
+              "common": "Arjantin",
+              "official": "Arjantin Cumhuriyeti"
+            },
+            "urd": {
+              "common": "ارجنٹائن",
+              "official": "جمہوریہ ارجنٹائن"
+            },
+            "zho": {
+              "common": "阿根廷",
+              "official": "阿根廷共和国"
+            }
+          }
         },
         "capitals": [
           {
@@ -287,7 +2007,58 @@
           }
         ],
         "flag": {
-          "emoji": "🇦🇷"
+          "colors": {
+            "dominant": "#74b1e1",
+            "palette": [
+              {
+                "hex": "#74b1e1",
+                "proportion": 0.650146484375
+              },
+              {
+                "hex": "#faf9f4",
+                "proportion": 0.289306640625
+              },
+              {
+                "hex": "#e3edf7",
+                "proportion": 0.0283203125
+              },
+              {
+                "hex": "#c17f2c",
+                "proportion": 0.012939453125
+              },
+              {
+                "hex": "#61a8dd",
+                "proportion": 0.01220703125
+              },
+              {
+                "hex": "#ebae2e",
+                "proportion": 0.00537109375
+              },
+              {
+                "hex": "#f7fdfd",
+                "proportion": 0.001708984375
+              },
+              {
+                "hex": "#9f95b7",
+                "proportion": 0
+              }
+            ],
+            "prominent": "#74b1e1",
+            "swatches": {
+              "dark_muted": null,
+              "dark_vibrant": null,
+              "light_muted": "#faf9f4",
+              "light_vibrant": "#ebae2e",
+              "muted": "#74b1e1",
+              "vibrant": "#c17f2c"
+            }
+          },
+          "description": "The flag of Argentina features three equal horizontal bands of light blue, white and light blue. A brown-edged golden sun is centered in the white band.",
+          "emoji": "🇦🇷",
+          "html_entity": "&#127462;&#127479;",
+          "unicode": "U+1F1E6 U+1F1F7",
+          "url_png": "https://flags.restcountries.com/v5/w640/ar.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/ar.svg"
         },
         "_meta": {
           "lastUpdatedTimestamp": 1783005246
@@ -295,7 +2066,123 @@
       },
       {
         "names": {
-          "common": "Armenia"
+          "alternates": [
+            "Hayastan"
+          ],
+          "common": "Armenia",
+          "native": {
+            "hye": {
+              "common": "Հայաստան",
+              "official": "Հայաստանի Հանրապետություն"
+            }
+          },
+          "official": "Republic of Armenia",
+          "translations": {
+            "ara": {
+              "common": "أرمينيا",
+              "official": "جمهورية أرمينيا"
+            },
+            "bre": {
+              "common": "Armenia",
+              "official": "Republik Armenia"
+            },
+            "ces": {
+              "common": "Arménie",
+              "official": "Arménská republika"
+            },
+            "cym": {
+              "common": "Armenia",
+              "official": "Gweriniaeth Armenia"
+            },
+            "deu": {
+              "common": "Armenien",
+              "official": "Republik Armenien"
+            },
+            "est": {
+              "common": "Armeenia",
+              "official": "Armeenia Vabariik"
+            },
+            "fas": {
+              "common": "ارمنستان",
+              "official": "جمهوری ارمنستان"
+            },
+            "fin": {
+              "common": "Armenia",
+              "official": "Armenian tasavalta"
+            },
+            "fra": {
+              "common": "Arménie",
+              "official": "République d'Arménie"
+            },
+            "hrv": {
+              "common": "Armenija",
+              "official": "Republika Armenija"
+            },
+            "hun": {
+              "common": "Örményország",
+              "official": "Örményország"
+            },
+            "ind": {
+              "common": "Armenia",
+              "official": "Republik Armenia"
+            },
+            "ita": {
+              "common": "Armenia",
+              "official": "Repubblica di Armenia"
+            },
+            "jpn": {
+              "common": "アルメニア",
+              "official": "アルメニア共和国"
+            },
+            "kor": {
+              "common": "아르메니아",
+              "official": "아르메니아 공화국"
+            },
+            "nld": {
+              "common": "Armenië",
+              "official": "Republiek Armenië"
+            },
+            "pol": {
+              "common": "Armenia",
+              "official": "Republika Armenii"
+            },
+            "por": {
+              "common": "Arménia",
+              "official": "República da Arménia"
+            },
+            "rus": {
+              "common": "Армения",
+              "official": "Республика Армения"
+            },
+            "slk": {
+              "common": "Arménsko",
+              "official": "Arménska republika"
+            },
+            "spa": {
+              "common": "Armenia",
+              "official": "República de Armenia"
+            },
+            "srp": {
+              "common": "Јерменија",
+              "official": "Република Јерменија"
+            },
+            "swe": {
+              "common": "Armenien",
+              "official": "Republiken Armenien"
+            },
+            "tur": {
+              "common": "Ermenistan",
+              "official": "Ermenistan Cumhuriyeti"
+            },
+            "urd": {
+              "common": "آرمینیا",
+              "official": "جمہوریہ آرمینیا"
+            },
+            "zho": {
+              "common": "亚美尼亚",
+              "official": "亚美尼亚共和国"
+            }
+          }
         },
         "capitals": [
           {
@@ -315,7 +2202,58 @@
           }
         ],
         "flag": {
-          "emoji": "🇦🇲"
+          "colors": {
+            "dominant": "#d80000",
+            "palette": [
+              {
+                "hex": "#d80000",
+                "proportion": 0.32834909978639
+              },
+              {
+                "hex": "#feaa04",
+                "proportion": 0.32041501373207204
+              },
+              {
+                "hex": "#1535a5",
+                "proportion": 0.32041501373207204
+              },
+              {
+                "hex": "#a17e2c",
+                "proportion": 0.007934086054317974
+              },
+              {
+                "hex": "#9c1549",
+                "proportion": 0.007628928898382667
+              },
+              {
+                "hex": "#efa21e",
+                "proportion": 0.007628928898382667
+              },
+              {
+                "hex": "#0a22a7",
+                "proportion": 0.007628928898382667
+              },
+              {
+                "hex": "#0098cc",
+                "proportion": 0
+              }
+            ],
+            "prominent": "#d80000",
+            "swatches": {
+              "dark_muted": "#0a22a7",
+              "dark_vibrant": "#1535a5",
+              "light_muted": "#efa21e",
+              "light_vibrant": "#feaa04",
+              "muted": "#a17e2c",
+              "vibrant": "#d80000"
+            }
+          },
+          "description": "The flag of Armenia is composed of three equal horizontal bands of red, blue and orange.",
+          "emoji": "🇦🇲",
+          "html_entity": "&#127462;&#127474;",
+          "unicode": "U+1F1E6 U+1F1F2",
+          "url_png": "https://flags.restcountries.com/v5/w640/am.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/am.svg"
         },
         "_meta": {
           "lastUpdatedTimestamp": 1783005246
@@ -323,7 +2261,125 @@
       },
       {
         "names": {
-          "common": "Aruba"
+          "alternates": [],
+          "common": "Aruba",
+          "native": {
+            "nld": {
+              "common": "Aruba",
+              "official": "Aruba"
+            },
+            "pap": {
+              "common": "Aruba",
+              "official": "Aruba"
+            }
+          },
+          "official": "Aruba",
+          "translations": {
+            "ara": {
+              "common": "أروبا",
+              "official": "أروبا"
+            },
+            "bre": {
+              "common": "Aruba",
+              "official": "Aruba"
+            },
+            "ces": {
+              "common": "Aruba",
+              "official": "Aruba"
+            },
+            "cym": {
+              "common": "Aruba",
+              "official": "Aruba"
+            },
+            "deu": {
+              "common": "Aruba",
+              "official": "Aruba"
+            },
+            "est": {
+              "common": "Aruba",
+              "official": "Aruba"
+            },
+            "fas": {
+              "common": "آروبا",
+              "official": "آروبا"
+            },
+            "fin": {
+              "common": "Aruba",
+              "official": "Aruba"
+            },
+            "fra": {
+              "common": "Aruba",
+              "official": "Aruba"
+            },
+            "hrv": {
+              "common": "Aruba",
+              "official": "Aruba"
+            },
+            "hun": {
+              "common": "Aruba",
+              "official": "Aruba"
+            },
+            "ind": {
+              "common": "Aruba",
+              "official": "Aruba"
+            },
+            "ita": {
+              "common": "Aruba",
+              "official": "Aruba"
+            },
+            "jpn": {
+              "common": "アルバ",
+              "official": "アルバ"
+            },
+            "kor": {
+              "common": "아루바",
+              "official": "아루바"
+            },
+            "nld": {
+              "common": "Aruba",
+              "official": "Aruba"
+            },
+            "pol": {
+              "common": "Aruba",
+              "official": "Aruba"
+            },
+            "por": {
+              "common": "Aruba",
+              "official": "Aruba"
+            },
+            "rus": {
+              "common": "Аруба",
+              "official": "Аруба"
+            },
+            "slk": {
+              "common": "Aruba",
+              "official": "Aruba"
+            },
+            "spa": {
+              "common": "Aruba",
+              "official": "Aruba"
+            },
+            "srp": {
+              "common": "Аруба",
+              "official": "Аруба"
+            },
+            "swe": {
+              "common": "Aruba",
+              "official": "Aruba"
+            },
+            "tur": {
+              "common": "Aruba",
+              "official": "Aruba"
+            },
+            "urd": {
+              "common": "اروبا",
+              "official": "اروبا"
+            },
+            "zho": {
+              "common": "阿鲁巴",
+              "official": "阿鲁巴"
+            }
+          }
         },
         "capitals": [
           {
@@ -343,7 +2399,58 @@
           }
         ],
         "flag": {
-          "emoji": "🇦🇼"
+          "colors": {
+            "dominant": "#448fe0",
+            "palette": [
+              {
+                "hex": "#448fe0",
+                "proportion": 0.8535861123800822
+              },
+              {
+                "hex": "#fcc300",
+                "proportion": 0.11626313385107355
+              },
+              {
+                "hex": "#368ef1",
+                "proportion": 0.011649154865235267
+              },
+              {
+                "hex": "#fbf0e5",
+                "proportion": 0.0038830516217450892
+              },
+              {
+                "hex": "#92a97c",
+                "proportion": 0.011649154865235267
+              },
+              {
+                "hex": "#d8e7f5",
+                "proportion": 0.0022841480127912287
+              },
+              {
+                "hex": "#a9cbf5",
+                "proportion": 0.00022841480127912289
+              },
+              {
+                "hex": "#98bce9",
+                "proportion": 0.00045682960255824577
+              }
+            ],
+            "prominent": "#448fe0",
+            "swatches": {
+              "dark_muted": null,
+              "dark_vibrant": null,
+              "light_muted": "#a9cbf5",
+              "light_vibrant": "#fcc300",
+              "muted": "#92a97c",
+              "vibrant": "#448fe0"
+            }
+          },
+          "description": "",
+          "emoji": "🇦🇼",
+          "html_entity": "&#127462;&#127484;",
+          "unicode": "U+1F1E6 U+1F1FC",
+          "url_png": "https://flags.restcountries.com/v5/w640/aw.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/aw.svg"
         },
         "_meta": {
           "lastUpdatedTimestamp": 1783007217
@@ -351,7 +2458,121 @@
       },
       {
         "names": {
-          "common": "Australia"
+          "alternates": [],
+          "common": "Australia",
+          "native": {
+            "eng": {
+              "common": "Australia",
+              "official": "Commonwealth of Australia"
+            }
+          },
+          "official": "Commonwealth of Australia",
+          "translations": {
+            "ara": {
+              "common": "أستراليا",
+              "official": "كومونولث أستراليا"
+            },
+            "bre": {
+              "common": "Aostralia",
+              "official": "Kenglad Aostralia"
+            },
+            "ces": {
+              "common": "Austrálie",
+              "official": "Australské společenství"
+            },
+            "cym": {
+              "common": "Awstralia",
+              "official": "Cymanwlad Awstralia"
+            },
+            "deu": {
+              "common": "Australien",
+              "official": "Commonwealth Australien"
+            },
+            "est": {
+              "common": "Austraalia",
+              "official": "Austraalia Ühendus"
+            },
+            "fas": {
+              "common": "استرالیا",
+              "official": "قلمرو همسود استرالیا"
+            },
+            "fin": {
+              "common": "Australia",
+              "official": "Australian liittovaltio"
+            },
+            "fra": {
+              "common": "Australie",
+              "official": "Australie"
+            },
+            "hrv": {
+              "common": "Australija",
+              "official": "Commonwealth of Australia"
+            },
+            "hun": {
+              "common": "Ausztrália",
+              "official": "Ausztrál Államszövetség"
+            },
+            "ind": {
+              "common": "Australia",
+              "official": "Persemakmuran Australia"
+            },
+            "ita": {
+              "common": "Australia",
+              "official": "Commonwealth dell'Australia"
+            },
+            "jpn": {
+              "common": "オーストラリア",
+              "official": "オーストラリア連邦"
+            },
+            "kor": {
+              "common": "호주",
+              "official": "오스트레일리아 연방"
+            },
+            "nld": {
+              "common": "Australië",
+              "official": "Gemenebest van Australië"
+            },
+            "pol": {
+              "common": "Australia",
+              "official": "Związek Australijski"
+            },
+            "por": {
+              "common": "Austrália",
+              "official": "Comunidade da Austrália"
+            },
+            "rus": {
+              "common": "Австралия",
+              "official": "Содружество Австралии"
+            },
+            "slk": {
+              "common": "Austrália",
+              "official": "Austrálsky zväz"
+            },
+            "spa": {
+              "common": "Australia",
+              "official": "Mancomunidad de Australia"
+            },
+            "srp": {
+              "common": "Аустралија",
+              "official": "Комонвелт Аустралија"
+            },
+            "swe": {
+              "common": "Australien",
+              "official": "Australiska statsförbundet"
+            },
+            "tur": {
+              "common": "Avustralya",
+              "official": "Avustralya Federal Devleti"
+            },
+            "urd": {
+              "common": "آسٹریلیا",
+              "official": "دولتِ مشترکہ آسٹریلیا"
+            },
+            "zho": {
+              "common": "澳大利亚",
+              "official": "澳大利亚联邦"
+            }
+          }
         },
         "capitals": [
           {
@@ -371,7 +2592,58 @@
           }
         ],
         "flag": {
-          "emoji": "🇦🇺"
+          "colors": {
+            "dominant": "#0c226c",
+            "palette": [
+              {
+                "hex": "#0c226c",
+                "proportion": 0.7833384192859323
+              },
+              {
+                "hex": "#f39562",
+                "proportion": 0.1690570643881599
+              },
+              {
+                "hex": "#e4e2ee",
+                "proportion": 0.03967043027158987
+              },
+              {
+                "hex": "#6e76a2",
+                "proportion": 0.0045773573390296
+              },
+              {
+                "hex": "#677aa4",
+                "proportion": 0.0015257857796765334
+              },
+              {
+                "hex": "#d30e12",
+                "proportion": 0.0006103143118706134
+              },
+              {
+                "hex": "#7d8db0",
+                "proportion": 0.0006103143118706134
+              },
+              {
+                "hex": "#02035c",
+                "proportion": 0.0006103143118706134
+              }
+            ],
+            "prominent": "#0c226c",
+            "swatches": {
+              "dark_muted": "#02035c",
+              "dark_vibrant": "#0c226c",
+              "light_muted": "#e4e2ee",
+              "light_vibrant": "#f39562",
+              "muted": "#7d8db0",
+              "vibrant": "#d30e12"
+            }
+          },
+          "description": "The flag of Australia has a dark blue field. It features the flag of the United Kingdom — the Union Jack — in the canton, beneath which is a large white seven-pointed star. A representation of the Southern Cross constellation, made up of one small five-pointed and four larger seven-pointed white stars, is situated on the fly side of the field.",
+          "emoji": "🇦🇺",
+          "html_entity": "&#127462;&#127482;",
+          "unicode": "U+1F1E6 U+1F1FA",
+          "url_png": "https://flags.restcountries.com/v5/w640/au.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/au.svg"
         },
         "_meta": {
           "lastUpdatedTimestamp": 1783005246
@@ -379,7 +2651,124 @@
       },
       {
         "names": {
-          "common": "Austria"
+          "alternates": [
+            "Osterreich",
+            "Oesterreich"
+          ],
+          "common": "Austria",
+          "native": {
+            "deu": {
+              "common": "Österreich",
+              "official": "Republik Österreich"
+            }
+          },
+          "official": "Republic of Austria",
+          "translations": {
+            "ara": {
+              "common": "النمسا",
+              "official": "جمهورية النمسا"
+            },
+            "bre": {
+              "common": "Aostria",
+              "official": "Republik Aostria"
+            },
+            "ces": {
+              "common": "Rakousko",
+              "official": "Rakouská republika"
+            },
+            "cym": {
+              "common": "Awstria",
+              "official": "Gweriniaeth Awstria"
+            },
+            "deu": {
+              "common": "Österreich",
+              "official": "Republik Österreich"
+            },
+            "est": {
+              "common": "Austria",
+              "official": "Austria Vabariik"
+            },
+            "fas": {
+              "common": "اتریش",
+              "official": "جمهوری اتریش"
+            },
+            "fin": {
+              "common": "Itävalta",
+              "official": "Itävallan tasavalta"
+            },
+            "fra": {
+              "common": "Autriche",
+              "official": "République d'Autriche"
+            },
+            "hrv": {
+              "common": "Austrija",
+              "official": "Republika Austrija"
+            },
+            "hun": {
+              "common": "Ausztria",
+              "official": "Ausztria"
+            },
+            "ind": {
+              "common": "Austria",
+              "official": "Republik Austria"
+            },
+            "ita": {
+              "common": "Austria",
+              "official": "Repubblica d'Austria"
+            },
+            "jpn": {
+              "common": "オーストリア",
+              "official": "オーストリア共和国"
+            },
+            "kor": {
+              "common": "오스트리아",
+              "official": "오스트리아 공화국"
+            },
+            "nld": {
+              "common": "Oostenrijk",
+              "official": "Republiek Oostenrijk"
+            },
+            "pol": {
+              "common": "Austria",
+              "official": "Republika Austrii"
+            },
+            "por": {
+              "common": "Áustria",
+              "official": "República da Áustria"
+            },
+            "rus": {
+              "common": "Австрия",
+              "official": "Австрийская Республика"
+            },
+            "slk": {
+              "common": "Rakúsko",
+              "official": "Rakúska republika"
+            },
+            "spa": {
+              "common": "Austria",
+              "official": "República de Austria"
+            },
+            "srp": {
+              "common": "Аустрија",
+              "official": "Република Аустрија"
+            },
+            "swe": {
+              "common": "Österrike",
+              "official": "Republiken Österrike"
+            },
+            "tur": {
+              "common": "Avusturya",
+              "official": "Avusturya Cumhuriyeti"
+            },
+            "urd": {
+              "common": "آسٹریا",
+              "official": "جمہوریہ آسٹریا"
+            },
+            "zho": {
+              "common": "奥地利",
+              "official": "奥地利共和国"
+            }
+          }
         },
         "capitals": [
           {
@@ -399,7 +2788,50 @@
           }
         ],
         "flag": {
-          "emoji": "🇦🇹"
+          "colors": {
+            "dominant": "#c8102d",
+            "palette": [
+              {
+                "hex": "#c8102d",
+                "proportion": 0.6432160804020101
+              },
+              {
+                "hex": "#c60d2c",
+                "proportion": 0.01187756966651439
+              },
+              {
+                "hex": "#c91c35",
+                "proportion": 0.011649154865235267
+              },
+              {
+                "hex": "#f9e4e7",
+                "proportion": 0.011649154865235267
+              },
+              {
+                "hex": "#ffffff",
+                "proportion": 0.30995888533576976
+              },
+              {
+                "hex": "#fffdfd",
+                "proportion": 0.011649154865235267
+              }
+            ],
+            "prominent": "#c8102d",
+            "swatches": {
+              "dark_muted": null,
+              "dark_vibrant": null,
+              "light_muted": "#f9e4e7",
+              "light_vibrant": null,
+              "muted": "#c91c35",
+              "vibrant": "#c8102d"
+            }
+          },
+          "description": "The flag of Austria is composed of three equal horizontal bands of red, white and red.",
+          "emoji": "🇦🇹",
+          "html_entity": "&#127462;&#127481;",
+          "unicode": "U+1F1E6 U+1F1F9",
+          "url_png": "https://flags.restcountries.com/v5/w640/at.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/at.svg"
         },
         "_meta": {
           "lastUpdatedTimestamp": 1783005246
@@ -407,7 +2839,121 @@
       },
       {
         "names": {
-          "common": "Azerbaijan"
+          "alternates": [],
+          "common": "Azerbaijan",
+          "native": {
+            "aze": {
+              "common": "Azərbaycan",
+              "official": "Azərbaycan Respublikası"
+            }
+          },
+          "official": "Republic of Azerbaijan",
+          "translations": {
+            "ara": {
+              "common": "أذربيجان",
+              "official": "جمهورية أذربيجان"
+            },
+            "bre": {
+              "common": "Azerbaidjan",
+              "official": "Republik Azerbaidjan"
+            },
+            "ces": {
+              "common": "Ázerbájdžán",
+              "official": "Ázerbájdžánská republika"
+            },
+            "cym": {
+              "common": "Aserbaijan",
+              "official": "Gweriniaeth Aserbaijan"
+            },
+            "deu": {
+              "common": "Aserbaidschan",
+              "official": "Republik Aserbaidschan"
+            },
+            "est": {
+              "common": "Aserbaidžaan",
+              "official": "Aserbaidžaani Vabariik"
+            },
+            "fas": {
+              "common": "جمهوری آذربایجان",
+              "official": "جمهوری آذربایجان"
+            },
+            "fin": {
+              "common": "Azerbaidzan",
+              "official": "Azerbaidzanin tasavalta"
+            },
+            "fra": {
+              "common": "Azerbaïdjan",
+              "official": "République d'Azerbaïdjan"
+            },
+            "hrv": {
+              "common": "Azerbajdžan",
+              "official": "Republika Azerbajdžan"
+            },
+            "hun": {
+              "common": "Azerbajdzsán",
+              "official": "Azerbajdzsán"
+            },
+            "ind": {
+              "common": "Azerbaijan",
+              "official": "Republik Azerbaijan"
+            },
+            "ita": {
+              "common": "Azerbaijan",
+              "official": "Repubblica dell'Azerbaigian"
+            },
+            "jpn": {
+              "common": "アゼルバイジャン",
+              "official": "アゼルバイジャン共和国"
+            },
+            "kor": {
+              "common": "아제르바이잔",
+              "official": "아제르바이잔 공화국"
+            },
+            "nld": {
+              "common": "Azerbeidzjan",
+              "official": "Republiek Azerbeidzjan"
+            },
+            "pol": {
+              "common": "Azerbejdżan",
+              "official": "Republika Azerbejdżanu"
+            },
+            "por": {
+              "common": "Azerbeijão",
+              "official": "República do Azerbaijão"
+            },
+            "rus": {
+              "common": "Азербайджан",
+              "official": "Азербайджанская Республика"
+            },
+            "slk": {
+              "common": "AzerbajǇan",
+              "official": "Azerbajǆanská republika"
+            },
+            "spa": {
+              "common": "Azerbaiyán",
+              "official": "República de Azerbaiyán"
+            },
+            "srp": {
+              "common": "Азербејџан",
+              "official": "Азербејџанска Република"
+            },
+            "swe": {
+              "common": "Azerbajdzjan",
+              "official": "Republiken Azerbajdzjan"
+            },
+            "tur": {
+              "common": "Azerbaycan",
+              "official": "Azerbaycan Cumhuriyeti"
+            },
+            "urd": {
+              "common": "آذربائیجان",
+              "official": "جمہوریہ آذربائیجان"
+            },
+            "zho": {
+              "common": "阿塞拜疆",
+              "official": "阿塞拜疆共和国"
+            }
+          }
         },
         "capitals": [
           {
@@ -427,15 +2973,183 @@
           }
         ],
         "flag": {
-          "emoji": "🇦🇿"
+          "colors": {
+            "dominant": "#ea3231",
+            "palette": [
+              {
+                "hex": "#ea3231",
+                "proportion": 0.3112602990540128
+              },
+              {
+                "hex": "#00b29a",
+                "proportion": 0.6481537992065914
+              },
+              {
+                "hex": "#817e36",
+                "proportion": 0.007934086054317974
+              },
+              {
+                "hex": "#fcfbf7",
+                "proportion": 0.008544400366188587
+              },
+              {
+                "hex": "#40a730",
+                "proportion": 0.007934086054317974
+              },
+              {
+                "hex": "#00bee9",
+                "proportion": 0.007934086054317974
+              },
+              {
+                "hex": "#ffe6e7",
+                "proportion": 0.00732377174244736
+              },
+              {
+                "hex": "#fffafc",
+                "proportion": 0.00091547146780592
+              }
+            ],
+            "prominent": "#00b29a",
+            "swatches": {
+              "dark_muted": null,
+              "dark_vibrant": null,
+              "light_muted": "#ffe6e7",
+              "light_vibrant": "#00bee9",
+              "muted": "#00b29a",
+              "vibrant": "#ea3231"
+            }
+          },
+          "description": "The flag of Azerbaijan features three equal horizontal bands of blue, red and green, with a white fly-side facing crescent and eight-pointed star centered in the red band.",
+          "emoji": "🇦🇿",
+          "html_entity": "&#127462;&#127487;",
+          "unicode": "U+1F1E6 U+1F1FF",
+          "url_png": "https://flags.restcountries.com/v5/w640/az.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/az.svg"
         },
         "_meta": {
-          "lastUpdatedTimestamp": 1783005246
+          "lastUpdatedTimestamp": 1783040108
         }
       },
       {
         "names": {
-          "common": "Bahamas"
+          "alternates": [
+            "The Bahamas",
+            "Bahamas, The"
+          ],
+          "common": "Bahamas",
+          "native": {
+            "eng": {
+              "common": "Bahamas",
+              "official": "Commonwealth of the Bahamas"
+            }
+          },
+          "official": "Commonwealth of the Bahamas",
+          "translations": {
+            "ara": {
+              "common": "باهاماس",
+              "official": "كومنولث جزر البهاما"
+            },
+            "bre": {
+              "common": "Bahamas",
+              "official": "Kenglad ar Bahamas"
+            },
+            "ces": {
+              "common": "Bahamy",
+              "official": "Bahamské společenství"
+            },
+            "cym": {
+              "common": "Bahamas",
+              "official": "Cymanwlad y Bahamas"
+            },
+            "deu": {
+              "common": "Bahamas",
+              "official": "Commonwealth der Bahamas"
+            },
+            "est": {
+              "common": "Bahama",
+              "official": "Bahama Ühendus"
+            },
+            "fas": {
+              "common": "باهاما",
+              "official": "قلمرو همسود باهاما"
+            },
+            "fin": {
+              "common": "Bahamasaaret",
+              "official": "Bahaman liittovaltio"
+            },
+            "fra": {
+              "common": "Bahamas",
+              "official": "Commonwealth des Bahamas"
+            },
+            "hrv": {
+              "common": "Bahami",
+              "official": "Zajednica Bahama"
+            },
+            "hun": {
+              "common": "Bahama-szigetek",
+              "official": "Bahamai Közösség"
+            },
+            "ind": {
+              "common": "Bahamas",
+              "official": "Persemakmuran Bahama"
+            },
+            "ita": {
+              "common": "Bahamas",
+              "official": "Commonwealth delle Bahamas"
+            },
+            "jpn": {
+              "common": "バハマ",
+              "official": "バハマ"
+            },
+            "kor": {
+              "common": "바하마",
+              "official": "바하마 연방"
+            },
+            "nld": {
+              "common": "Bahama’s",
+              "official": "Gemenebest van de Bahama's"
+            },
+            "pol": {
+              "common": "Bahamy",
+              "official": "Bahamy"
+            },
+            "por": {
+              "common": "Bahamas",
+              "official": "Comunidade das Bahamas"
+            },
+            "rus": {
+              "common": "Багамские Острова",
+              "official": "Содружество Багамских Островов"
+            },
+            "slk": {
+              "common": "Bahamy",
+              "official": "Bahamské spoločenstvo"
+            },
+            "spa": {
+              "common": "Bahamas",
+              "official": "Commonwealth de las Bahamas"
+            },
+            "srp": {
+              "common": "Бахами",
+              "official": "Комонвелт Бахама"
+            },
+            "swe": {
+              "common": "Bahamas",
+              "official": "Samväldet Bahamas"
+            },
+            "tur": {
+              "common": "Bahamalar",
+              "official": "Bahama Milletler Topluluğu"
+            },
+            "urd": {
+              "common": "بہاماس",
+              "official": "دولتِ مشترکہ بہاماس"
+            },
+            "zho": {
+              "common": "巴哈马",
+              "official": "巴哈马联邦"
+            }
+          }
         },
         "capitals": [
           {
@@ -455,7 +3169,58 @@
           }
         ],
         "flag": {
-          "emoji": "🇧🇸"
+          "colors": {
+            "dominant": "#ffc628",
+            "palette": [
+              {
+                "hex": "#ffc628",
+                "proportion": 0.20842233750381448
+              },
+              {
+                "hex": "#000000",
+                "proportion": 0.20811718034787915
+              },
+              {
+                "hex": "#08748d",
+                "proportion": 0.5495880378394873
+              },
+              {
+                "hex": "#5d926c",
+                "proportion": 0.01098565761367104
+              },
+              {
+                "hex": "#006e7b",
+                "proportion": 0.01281660054928288
+              },
+              {
+                "hex": "#000304",
+                "proportion": 0.007934086054317974
+              },
+              {
+                "hex": "#423911",
+                "proportion": 0.0015257857796765334
+              },
+              {
+                "hex": "#0e5264",
+                "proportion": 0.0006103143118706134
+              }
+            ],
+            "prominent": "#08748d",
+            "swatches": {
+              "dark_muted": "#423911",
+              "dark_vibrant": null,
+              "light_muted": null,
+              "light_vibrant": "#ffc628",
+              "muted": "#08748d",
+              "vibrant": "#5d926c"
+            }
+          },
+          "description": "The flag of the Bahamas is composed of three equal horizontal bands of aquamarine, yellow and aquamarine, with a black equilateral triangle superimposed on the hoist side of the field. This triangle has its base on the hoist end and spans about one-third the width of the field.",
+          "emoji": "🇧🇸",
+          "html_entity": "&#127463;&#127480;",
+          "unicode": "U+1F1E7 U+1F1F8",
+          "url_png": "https://flags.restcountries.com/v5/w640/bs.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/bs.svg"
         },
         "_meta": {
           "lastUpdatedTimestamp": 1783005246
@@ -463,7 +3228,123 @@
       },
       {
         "names": {
-          "common": "Bahrain"
+          "alternates": [
+            "Mamlakat al-Baḥrayn"
+          ],
+          "common": "Bahrain",
+          "native": {
+            "ara": {
+              "common": "‏البحرين",
+              "official": "مملكة البحرين"
+            }
+          },
+          "official": "Kingdom of Bahrain",
+          "translations": {
+            "ara": {
+              "common": "‏البحرين",
+              "official": "مملكة البحرين"
+            },
+            "bre": {
+              "common": "Bahrein",
+              "official": "Rouantelezh Bahrein"
+            },
+            "ces": {
+              "common": "Bahrajn",
+              "official": "Království Bahrajn"
+            },
+            "cym": {
+              "common": "Bahrain",
+              "official": "Teyrnas Bahrein"
+            },
+            "deu": {
+              "common": "Bahrain",
+              "official": "Königreich Bahrain"
+            },
+            "est": {
+              "common": "Bahrein",
+              "official": "Bahreini Kuningriik"
+            },
+            "fas": {
+              "common": "بحرین",
+              "official": "پادشاهی بحرین"
+            },
+            "fin": {
+              "common": "Bahrain",
+              "official": "Bahrainin kuningaskunta"
+            },
+            "fra": {
+              "common": "Bahreïn",
+              "official": "Royaume de Bahreïn"
+            },
+            "hrv": {
+              "common": "Bahrein",
+              "official": "Kraljevina Bahrein"
+            },
+            "hun": {
+              "common": "Bahrein",
+              "official": "Bahreini Királyság"
+            },
+            "ind": {
+              "common": "Bahrain",
+              "official": "Kerajaan Bahrain"
+            },
+            "ita": {
+              "common": "Bahrein",
+              "official": "Regno del Bahrain"
+            },
+            "jpn": {
+              "common": "バーレーン",
+              "official": "バーレーン王国"
+            },
+            "kor": {
+              "common": "바레인",
+              "official": "바레인 왕국"
+            },
+            "nld": {
+              "common": "Bahrein",
+              "official": "Koninkrijk Bahrein"
+            },
+            "pol": {
+              "common": "Bahrajn",
+              "official": "Królestwo Bahrajnu"
+            },
+            "por": {
+              "common": "Bahrein",
+              "official": "Reino do Bahrein"
+            },
+            "rus": {
+              "common": "Бахрейн",
+              "official": "Королевство Бахрейн"
+            },
+            "slk": {
+              "common": "Bahrajn",
+              "official": "Bahrajnské kráľovstvo"
+            },
+            "spa": {
+              "common": "Bahrein",
+              "official": "Reino de Bahrein"
+            },
+            "srp": {
+              "common": "Бахреин",
+              "official": "Краљевина Бахреин"
+            },
+            "swe": {
+              "common": "Bahrain",
+              "official": "Konungariket Bahrain"
+            },
+            "tur": {
+              "common": "Bahreyn",
+              "official": "Bahreyn Krallığı"
+            },
+            "urd": {
+              "common": "بحرین",
+              "official": "مملکتِ بحرین"
+            },
+            "zho": {
+              "common": "巴林",
+              "official": "巴林王国"
+            }
+          }
         },
         "capitals": [
           {
@@ -483,7 +3364,58 @@
           }
         ],
         "flag": {
-          "emoji": "🇧🇭"
+          "colors": {
+            "dominant": "#fcfbf7",
+            "palette": [
+              {
+                "hex": "#fcfbf7",
+                "proportion": 0.3116916053766168
+              },
+              {
+                "hex": "#dd231f",
+                "proportion": 0.6705554146588891
+              },
+              {
+                "hex": "#fcecec",
+                "proportion": 0.014455997971088003
+              },
+              {
+                "hex": "#e77e71",
+                "proportion": 0.001521683996956632
+              },
+              {
+                "hex": "#ea9d92",
+                "proportion": 0.000507227998985544
+              },
+              {
+                "hex": "#f0998d",
+                "proportion": 0.000253613999492772
+              },
+              {
+                "hex": "#e76b5d",
+                "proportion": 0.001014455997971088
+              },
+              {
+                "hex": "#cf7400",
+                "proportion": 0
+              }
+            ],
+            "prominent": "#dd231f",
+            "swatches": {
+              "dark_muted": null,
+              "dark_vibrant": null,
+              "light_muted": "#fcfbf7",
+              "light_vibrant": "#e77e71",
+              "muted": "#ea9d92",
+              "vibrant": "#dd231f"
+            }
+          },
+          "description": "The flag of Bahrain has a red field. On the hoist side, it features a white vertical band that spans about one-third the width of the field and is separated from the rest of the field by five adjoining fly-side pointing white isosceles triangles that serve as a serrated line.",
+          "emoji": "🇧🇭",
+          "html_entity": "&#127463;&#127469;",
+          "unicode": "U+1F1E7 U+1F1ED",
+          "url_png": "https://flags.restcountries.com/v5/w640/bh.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/bh.svg"
         },
         "_meta": {
           "lastUpdatedTimestamp": 1783005246
@@ -491,7 +3423,123 @@
       },
       {
         "names": {
-          "common": "Bangladesh"
+          "alternates": [
+            "Gônôprôjatôntri Bangladesh"
+          ],
+          "common": "Bangladesh",
+          "native": {
+            "ben": {
+              "common": "বাংলাদেশ",
+              "official": "বাংলাদেশ গণপ্রজাতন্ত্রী"
+            }
+          },
+          "official": "People's Republic of Bangladesh",
+          "translations": {
+            "ara": {
+              "common": "بنغلاديش",
+              "official": "جمهورية بنغلاديش الشعبية"
+            },
+            "bre": {
+              "common": "Bangladesh",
+              "official": "Republik pobl Bangladesh"
+            },
+            "ces": {
+              "common": "Bangladéš",
+              "official": "Bangladéšská lidová republika"
+            },
+            "cym": {
+              "common": "Bangladesh",
+              "official": "Gweriniaeth Pobl Bangladesh"
+            },
+            "deu": {
+              "common": "Bangladesch",
+              "official": "Volksrepublik Bangladesch"
+            },
+            "est": {
+              "common": "Bangladesh",
+              "official": "Bangladeshi Rahvavabariik"
+            },
+            "fas": {
+              "common": "بنگلادش",
+              "official": "جمهوری خلق بنگلادش"
+            },
+            "fin": {
+              "common": "Bangladesh",
+              "official": "Bangladeshin kansantasavalta"
+            },
+            "fra": {
+              "common": "Bangladesh",
+              "official": "La République populaire du Bangladesh"
+            },
+            "hrv": {
+              "common": "Bangladeš",
+              "official": "Narodna Republika Bangladeš"
+            },
+            "hun": {
+              "common": "Banglades",
+              "official": "Banglades"
+            },
+            "ind": {
+              "common": "Bangladesh",
+              "official": "Republik Rakyat Bangladesh"
+            },
+            "ita": {
+              "common": "Bangladesh",
+              "official": "Repubblica popolare del Bangladesh"
+            },
+            "jpn": {
+              "common": "バングラデシュ",
+              "official": "バングラデシュ人民共和国"
+            },
+            "kor": {
+              "common": "방글라데시",
+              "official": "방글라데시 인민 공화국"
+            },
+            "nld": {
+              "common": "Bangladesh",
+              "official": "Volksrepubliek Bangladesh"
+            },
+            "pol": {
+              "common": "Bangladesz",
+              "official": "Ludowa Republika Bangladeszu"
+            },
+            "por": {
+              "common": "Bangladesh",
+              "official": "República Popular do Bangladesh"
+            },
+            "rus": {
+              "common": "Бангладеш",
+              "official": "Народная Республика Бангладеш"
+            },
+            "slk": {
+              "common": "Bangladéš",
+              "official": "Bangladéšska ľudová republika"
+            },
+            "spa": {
+              "common": "Bangladesh",
+              "official": "República Popular de Bangladesh"
+            },
+            "srp": {
+              "common": "Бангладеш",
+              "official": "Народна Република Бангладеш"
+            },
+            "swe": {
+              "common": "Bangladesh",
+              "official": "Folkrepubliken Bangladesh"
+            },
+            "tur": {
+              "common": "Bangladeş",
+              "official": "Bangladeş Halk Cumhuriyeti"
+            },
+            "urd": {
+              "common": "بنگلہ دیش",
+              "official": "عوامی جمہوریہ بنگلہ دیش"
+            },
+            "zho": {
+              "common": "孟加拉国",
+              "official": "孟加拉人民共和国"
+            }
+          }
         },
         "capitals": [
           {
@@ -511,7 +3559,58 @@
           }
         ],
         "flag": {
-          "emoji": "🇧🇩"
+          "colors": {
+            "dominant": "#126647",
+            "palette": [
+              {
+                "hex": "#126647",
+                "proportion": 0.7862033984275932
+              },
+              {
+                "hex": "#f9342d",
+                "proportion": 0.20517372558965255
+              },
+              {
+                "hex": "#974645",
+                "proportion": 0.003043367993913264
+              },
+              {
+                "hex": "#00724e",
+                "proportion": 0.001775297996449404
+              },
+              {
+                "hex": "#1a7051",
+                "proportion": 0.001775297996449404
+              },
+              {
+                "hex": "#5a574b",
+                "proportion": 0.000507227998985544
+              },
+              {
+                "hex": "#d72f4d",
+                "proportion": 0.001521683996956632
+              },
+              {
+                "hex": "#8d6f00",
+                "proportion": 0
+              }
+            ],
+            "prominent": "#126647",
+            "swatches": {
+              "dark_muted": null,
+              "dark_vibrant": null,
+              "light_muted": null,
+              "light_vibrant": null,
+              "muted": "#126647",
+              "vibrant": "#f9342d"
+            }
+          },
+          "description": "The flag of Bangladesh has a dark green field bearing a large red circle that is offset slightly towards the hoist side of center.",
+          "emoji": "🇧🇩",
+          "html_entity": "&#127463;&#127465;",
+          "unicode": "U+1F1E7 U+1F1E9",
+          "url_png": "https://flags.restcountries.com/v5/w640/bd.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/bd.svg"
         },
         "_meta": {
           "lastUpdatedTimestamp": 1783005246
@@ -519,7 +3618,121 @@
       },
       {
         "names": {
-          "common": "Barbados"
+          "alternates": [],
+          "common": "Barbados",
+          "native": {
+            "eng": {
+              "common": "Barbados",
+              "official": "Barbados"
+            }
+          },
+          "official": "Barbados",
+          "translations": {
+            "ara": {
+              "common": "باربادوس",
+              "official": "باربادوس"
+            },
+            "bre": {
+              "common": "Barbados",
+              "official": "Barbados"
+            },
+            "ces": {
+              "common": "Barbados",
+              "official": "Barbados"
+            },
+            "cym": {
+              "common": "Barbados",
+              "official": "Barbados"
+            },
+            "deu": {
+              "common": "Barbados",
+              "official": "Barbados"
+            },
+            "est": {
+              "common": "Barbados",
+              "official": "Barbados"
+            },
+            "fas": {
+              "common": "باربادوس",
+              "official": "باربادوس"
+            },
+            "fin": {
+              "common": "Barbados",
+              "official": "Barbados"
+            },
+            "fra": {
+              "common": "Barbade",
+              "official": "Barbade"
+            },
+            "hrv": {
+              "common": "Barbados",
+              "official": "Barbados"
+            },
+            "hun": {
+              "common": "Barbados",
+              "official": "Barbados"
+            },
+            "ind": {
+              "common": "Barbados",
+              "official": "Barbados"
+            },
+            "ita": {
+              "common": "Barbados",
+              "official": "Barbados"
+            },
+            "jpn": {
+              "common": "バルバドス",
+              "official": "バルバドス"
+            },
+            "kor": {
+              "common": "바베이도스",
+              "official": "바베이도스"
+            },
+            "nld": {
+              "common": "Barbados",
+              "official": "Barbados"
+            },
+            "pol": {
+              "common": "Barbados",
+              "official": "Barbados"
+            },
+            "por": {
+              "common": "Barbados",
+              "official": "Barbados"
+            },
+            "rus": {
+              "common": "Барбадос",
+              "official": "Барбадос"
+            },
+            "slk": {
+              "common": "Barbados",
+              "official": "Barbados"
+            },
+            "spa": {
+              "common": "Barbados",
+              "official": "Barbados"
+            },
+            "srp": {
+              "common": "Барбадос",
+              "official": "Барбадос"
+            },
+            "swe": {
+              "common": "Barbados",
+              "official": "Barbados"
+            },
+            "tur": {
+              "common": "Barbados",
+              "official": "Barbados"
+            },
+            "urd": {
+              "common": "بارباڈوس",
+              "official": "بارباڈوس"
+            },
+            "zho": {
+              "common": "巴巴多斯",
+              "official": "巴巴多斯"
+            }
+          }
         },
         "capitals": [
           {
@@ -539,7 +3752,58 @@
           }
         ],
         "flag": {
-          "emoji": "🇧🇧"
+          "colors": {
+            "dominant": "#0d2784",
+            "palette": [
+              {
+                "hex": "#0d2784",
+                "proportion": 0.65623572407492
+              },
+              {
+                "hex": "#ffc52a",
+                "proportion": 0.29488350845134764
+              },
+              {
+                "hex": "#0c0301",
+                "proportion": 0.040886249428963
+              },
+              {
+                "hex": "#061880",
+                "proportion": 0.0077661032434901784
+              },
+              {
+                "hex": "#010202",
+                "proportion": 0.00022841480127912289
+              },
+              {
+                "hex": "#00737b",
+                "proportion": 0
+              },
+              {
+                "hex": "#00737b",
+                "proportion": 0
+              },
+              {
+                "hex": "#00747c",
+                "proportion": 0
+              }
+            ],
+            "prominent": "#0d2784",
+            "swatches": {
+              "dark_muted": "#0c0301",
+              "dark_vibrant": "#0d2784",
+              "light_muted": null,
+              "light_vibrant": "#ffc52a",
+              "muted": "#00747c",
+              "vibrant": "#00737b"
+            }
+          },
+          "description": "The flag of Barbados is composed of three equal vertical bands of ultramarine, gold and ultramarine. The head of a black trident is centered in the gold band.",
+          "emoji": "🇧🇧",
+          "html_entity": "&#127463;&#127463;",
+          "unicode": "U+1F1E7 U+1F1E7",
+          "url_png": "https://flags.restcountries.com/v5/w640/bb.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/bb.svg"
         },
         "_meta": {
           "lastUpdatedTimestamp": 1783005246
@@ -547,7 +3811,130 @@
       },
       {
         "names": {
-          "common": "Belarus"
+          "alternates": [
+            "Bielaruś",
+            "Белоруссия",
+            "Республика Белоруссия",
+            "Byelorussia"
+          ],
+          "common": "Belarus",
+          "native": {
+            "bel": {
+              "common": "Белару́сь",
+              "official": "Рэспубліка Беларусь"
+            },
+            "rus": {
+              "common": "Беларусь",
+              "official": "Республика Беларусь"
+            }
+          },
+          "official": "Republic of Belarus",
+          "translations": {
+            "ara": {
+              "common": "بيلاروسيا",
+              "official": "جمهورية بيلاروسيا"
+            },
+            "bre": {
+              "common": "Belarus",
+              "official": "Republik Belarus"
+            },
+            "ces": {
+              "common": "Bělorusko",
+              "official": "Běloruská republika"
+            },
+            "cym": {
+              "common": "Belarws",
+              "official": "Gweriniaeth Belarws"
+            },
+            "deu": {
+              "common": "Weißrussland",
+              "official": "Republik Belarus"
+            },
+            "est": {
+              "common": "Valgevene",
+              "official": "Valgevene Vabariik"
+            },
+            "fas": {
+              "common": "بلاروس",
+              "official": "جمهوری بلاروس"
+            },
+            "fin": {
+              "common": "Valko-Venäjä",
+              "official": "Valko-Venäjän tasavalta"
+            },
+            "fra": {
+              "common": "Biélorussie",
+              "official": "République de Biélorussie"
+            },
+            "hrv": {
+              "common": "Bjelorusija",
+              "official": "Republika Bjelorusija"
+            },
+            "hun": {
+              "common": "Fehéroroszország",
+              "official": "Fehérorosz Köztársaság"
+            },
+            "ind": {
+              "common": "Belarus",
+              "official": "Republik Belarus"
+            },
+            "ita": {
+              "common": "Bielorussia",
+              "official": "Repubblica di Belarus"
+            },
+            "jpn": {
+              "common": "ベラルーシ",
+              "official": "ベラルーシ共和国"
+            },
+            "kor": {
+              "common": "벨라루스",
+              "official": "벨라루스 공화국"
+            },
+            "nld": {
+              "common": "Wit-Rusland",
+              "official": "Republiek Belarus"
+            },
+            "pol": {
+              "common": "Białoruś",
+              "official": "Republika Białorusi"
+            },
+            "por": {
+              "common": "Bielorússia",
+              "official": "República da Bielorrússia"
+            },
+            "rus": {
+              "common": "Беларусь",
+              "official": "Республика Беларусь"
+            },
+            "slk": {
+              "common": "Bielorusko",
+              "official": "Bieloruská republika"
+            },
+            "spa": {
+              "common": "Bielorrusia",
+              "official": "República de Belarús"
+            },
+            "srp": {
+              "common": "Белорусија",
+              "official": "Република Белорусија"
+            },
+            "swe": {
+              "common": "Belarus",
+              "official": "Republiken Vitryssland"
+            },
+            "tur": {
+              "common": "Belarus",
+              "official": "Belarus Cumhuriyeti"
+            },
+            "urd": {
+              "common": "بیلاروس",
+              "official": "جمہوریہ بیلاروس"
+            },
+            "zho": {
+              "common": "白俄罗斯",
+              "official": "白俄罗斯共和国"
+            }
+          }
         },
         "capitals": [
           {
@@ -567,7 +3954,58 @@
           }
         ],
         "flag": {
-          "emoji": "🇧🇾"
+          "colors": {
+            "dominant": "#007d3b",
+            "palette": [
+              {
+                "hex": "#007d3b",
+                "proportion": 0.28959414098260605
+              },
+              {
+                "hex": "#cd1f1c",
+                "proportion": 0.6426609703997559
+              },
+              {
+                "hex": "#fae7e0",
+                "proportion": 0.04333231614281355
+              },
+              {
+                "hex": "#57642b",
+                "proportion": 0.007628928898382667
+              },
+              {
+                "hex": "#fff9fb",
+                "proportion": 0.0015257857796765334
+              },
+              {
+                "hex": "#e68388",
+                "proportion": 0.009765028989929814
+              },
+              {
+                "hex": "#dc5e6a",
+                "proportion": 0.00274641440341776
+              },
+              {
+                "hex": "#dd5564",
+                "proportion": 0.00274641440341776
+              }
+            ],
+            "prominent": "#cd1f1c",
+            "swatches": {
+              "dark_muted": null,
+              "dark_vibrant": null,
+              "light_muted": "#fae7e0",
+              "light_vibrant": null,
+              "muted": "#e68388",
+              "vibrant": "#cd1f1c"
+            }
+          },
+          "description": "The flag of Belarus features a vertical band, with a white and red ornamental pattern, spanning about one-fifth the width of the field on the hoist side. Adjoining the vertical band are two horizontal bands of red and green, with the red band twice the height of the green band.",
+          "emoji": "🇧🇾",
+          "html_entity": "&#127463;&#127486;",
+          "unicode": "U+1F1E7 U+1F1FE",
+          "url_png": "https://flags.restcountries.com/v5/w640/by.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/by.svg"
         },
         "_meta": {
           "lastUpdatedTimestamp": 1783005246
@@ -575,7 +4013,131 @@
       },
       {
         "names": {
-          "common": "Belgium"
+          "alternates": [
+            "Belgie"
+          ],
+          "common": "Belgium",
+          "native": {
+            "deu": {
+              "common": "Belgien",
+              "official": "Königreich Belgien"
+            },
+            "fra": {
+              "common": "Belgique",
+              "official": "Royaume de Belgique"
+            },
+            "nld": {
+              "common": "België",
+              "official": "Koninkrijk België"
+            }
+          },
+          "official": "Kingdom of Belgium",
+          "translations": {
+            "ara": {
+              "common": "بلجيكا",
+              "official": "مملكة بلجيكا"
+            },
+            "bre": {
+              "common": "Belgia",
+              "official": "Rouantelezh Belgia"
+            },
+            "ces": {
+              "common": "Belgie",
+              "official": "Belgické království"
+            },
+            "cym": {
+              "common": "Gwlad Belg",
+              "official": "Teyrnas Gwlad Belg"
+            },
+            "deu": {
+              "common": "Belgien",
+              "official": "Königreich Belgien"
+            },
+            "est": {
+              "common": "Belgia",
+              "official": "Belgia Kuningriik"
+            },
+            "fas": {
+              "common": "بلژیک",
+              "official": "پادشاهی بلژیک"
+            },
+            "fin": {
+              "common": "Belgia",
+              "official": "Belgian kuningaskunta"
+            },
+            "fra": {
+              "common": "Belgique",
+              "official": "Royaume de Belgique"
+            },
+            "hrv": {
+              "common": "Belgija",
+              "official": "Kraljevina Belgija"
+            },
+            "hun": {
+              "common": "Belgium",
+              "official": "Belga Királyság"
+            },
+            "ind": {
+              "common": "Belgia",
+              "official": "Kerajaan Belgia"
+            },
+            "ita": {
+              "common": "Belgio",
+              "official": "Regno del Belgio"
+            },
+            "jpn": {
+              "common": "ベルギー",
+              "official": "ベルギー王国"
+            },
+            "kor": {
+              "common": "벨기에",
+              "official": "벨기에 왕국"
+            },
+            "nld": {
+              "common": "België",
+              "official": "Koninkrijk België"
+            },
+            "pol": {
+              "common": "Belgia",
+              "official": "Królestwo Belgii"
+            },
+            "por": {
+              "common": "Bélgica",
+              "official": "Reino da Bélgica"
+            },
+            "rus": {
+              "common": "Бельгия",
+              "official": "Королевство Бельгия"
+            },
+            "slk": {
+              "common": "Belgicko",
+              "official": "Belgické kráľovstvo"
+            },
+            "spa": {
+              "common": "Bélgica",
+              "official": "Reino de Bélgica"
+            },
+            "srp": {
+              "common": "Белгија",
+              "official": "Краљевина Белгија"
+            },
+            "swe": {
+              "common": "Belgien",
+              "official": "Konungariket Belgien"
+            },
+            "tur": {
+              "common": "Belçika",
+              "official": "Belçika Krallığı"
+            },
+            "urd": {
+              "common": "بلجئیم",
+              "official": "مملکتِ بلجئیم"
+            },
+            "zho": {
+              "common": "比利时",
+              "official": "比利时王国"
+            }
+          }
         },
         "capitals": [
           {
@@ -595,7 +4157,54 @@
           }
         ],
         "flag": {
-          "emoji": "🇧🇪"
+          "colors": {
+            "dominant": "#000000",
+            "palette": [
+              {
+                "hex": "#000000",
+                "proportion": 0.33603096410978184
+              },
+              {
+                "hex": "#fbda24",
+                "proportion": 0.3124560168895144
+              },
+              {
+                "hex": "#f4a02c",
+                "proportion": 0.007916959887403237
+              },
+              {
+                "hex": "#ef343f",
+                "proportion": 0.3203729767769177
+              },
+              {
+                "hex": "#fcd825",
+                "proportion": 0.007741027445460943
+              },
+              {
+                "hex": "#ef353f",
+                "proportion": 0.007741027445460943
+              },
+              {
+                "hex": "#fee726",
+                "proportion": 0.007741027445460943
+              }
+            ],
+            "prominent": "#000000",
+            "swatches": {
+              "dark_muted": "#000000",
+              "dark_vibrant": null,
+              "light_muted": "#f4a02c",
+              "light_vibrant": "#fbda24",
+              "muted": "#ef353f",
+              "vibrant": "#ef343f"
+            }
+          },
+          "description": "The flag of Belgium is composed of three equal vertical bands of black, yellow and red.",
+          "emoji": "🇧🇪",
+          "html_entity": "&#127463;&#127466;",
+          "unicode": "U+1F1E7 U+1F1EA",
+          "url_png": "https://flags.restcountries.com/v5/w640/be.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/be.svg"
         },
         "_meta": {
           "lastUpdatedTimestamp": 1783005246
@@ -603,7 +4212,131 @@
       },
       {
         "names": {
-          "common": "Belize"
+          "alternates": [
+            "British Honduras"
+          ],
+          "common": "Belize",
+          "native": {
+            "bjz": {
+              "common": "Belize",
+              "official": "Belize"
+            },
+            "eng": {
+              "common": "Belize",
+              "official": "Belize"
+            },
+            "spa": {
+              "common": "Belice",
+              "official": "Belice"
+            }
+          },
+          "official": "Belize",
+          "translations": {
+            "ara": {
+              "common": "بليز",
+              "official": "بليز"
+            },
+            "bre": {
+              "common": "Belize",
+              "official": "Belize"
+            },
+            "ces": {
+              "common": "Belize",
+              "official": "Belize"
+            },
+            "cym": {
+              "common": "Belîs",
+              "official": "Belîs"
+            },
+            "deu": {
+              "common": "Belize",
+              "official": "Belize"
+            },
+            "est": {
+              "common": "Belize",
+              "official": "Belize"
+            },
+            "fas": {
+              "common": "بلیز",
+              "official": "بلیز"
+            },
+            "fin": {
+              "common": "Belize",
+              "official": "Belize"
+            },
+            "fra": {
+              "common": "Belize",
+              "official": "Belize"
+            },
+            "hrv": {
+              "common": "Belize",
+              "official": "Belize"
+            },
+            "hun": {
+              "common": "Belize",
+              "official": "Belize"
+            },
+            "ind": {
+              "common": "Belize",
+              "official": "Belize"
+            },
+            "ita": {
+              "common": "Belize",
+              "official": "Belize"
+            },
+            "jpn": {
+              "common": "ベリーズ",
+              "official": "ベリーズ"
+            },
+            "kor": {
+              "common": "벨리즈",
+              "official": "벨리즈"
+            },
+            "nld": {
+              "common": "Belize",
+              "official": "Belize"
+            },
+            "pol": {
+              "common": "Belize",
+              "official": "Belize"
+            },
+            "por": {
+              "common": "Belize",
+              "official": "Belize"
+            },
+            "rus": {
+              "common": "Белиз",
+              "official": "Белиз"
+            },
+            "slk": {
+              "common": "Belize",
+              "official": "Belize"
+            },
+            "spa": {
+              "common": "Belice",
+              "official": "Belice"
+            },
+            "srp": {
+              "common": "Белизе",
+              "official": "Белизе"
+            },
+            "swe": {
+              "common": "Belize",
+              "official": "Belize"
+            },
+            "tur": {
+              "common": "Belize",
+              "official": "Belize"
+            },
+            "urd": {
+              "common": "بیلیز",
+              "official": "بیلیز"
+            },
+            "zho": {
+              "common": "伯利兹",
+              "official": "伯利兹"
+            }
+          }
         },
         "capitals": [
           {
@@ -623,7 +4356,58 @@
           }
         ],
         "flag": {
-          "emoji": "🇧🇿"
+          "colors": {
+            "dominant": "#cf2710",
+            "palette": [
+              {
+                "hex": "#cf2710",
+                "proportion": 0.21506467156987066
+              },
+              {
+                "hex": "#071a96",
+                "proportion": 0.6322597007354805
+              },
+              {
+                "hex": "#bcdeda",
+                "proportion": 0.049961957900076084
+              },
+              {
+                "hex": "#f3f0e3",
+                "proportion": 0.05757037788485925
+              },
+              {
+                "hex": "#328a24",
+                "proportion": 0.02916560994166878
+              },
+              {
+                "hex": "#7f0549",
+                "proportion": 0.013187927973624143
+              },
+              {
+                "hex": "#6a5968",
+                "proportion": 0.001014455997971088
+              },
+              {
+                "hex": "#4262be",
+                "proportion": 0.001775297996449404
+              }
+            ],
+            "prominent": "#071a96",
+            "swatches": {
+              "dark_muted": "#7f0549",
+              "dark_vibrant": "#071a96",
+              "light_muted": "#bcdeda",
+              "light_vibrant": null,
+              "muted": "#6a5968",
+              "vibrant": "#cf2710"
+            }
+          },
+          "description": "The flag of Belize has a royal blue field with a thin red horizontal band at the top and bottom of the field and the national coat of arms in the center.",
+          "emoji": "🇧🇿",
+          "html_entity": "&#127463;&#127487;",
+          "unicode": "U+1F1E7 U+1F1FF",
+          "url_png": "https://flags.restcountries.com/v5/w640/bz.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/bz.svg"
         },
         "_meta": {
           "lastUpdatedTimestamp": 1783005246
@@ -631,7 +4415,123 @@
       },
       {
         "names": {
-          "common": "Benin"
+          "alternates": [
+            "Dahomey"
+          ],
+          "common": "Benin",
+          "native": {
+            "fra": {
+              "common": "Bénin",
+              "official": "République du Bénin"
+            }
+          },
+          "official": "Republic of Benin",
+          "translations": {
+            "ara": {
+              "common": "بنين",
+              "official": "جمهورية بنين"
+            },
+            "bre": {
+              "common": "Benin",
+              "official": "Republik Benin"
+            },
+            "ces": {
+              "common": "Benin",
+              "official": "Beninská republika"
+            },
+            "cym": {
+              "common": "Benin",
+              "official": "Gweriniaeth Benin"
+            },
+            "deu": {
+              "common": "Benin",
+              "official": "Republik Benin"
+            },
+            "est": {
+              "common": "Benin",
+              "official": "Benini Vabariik"
+            },
+            "fas": {
+              "common": "بنین",
+              "official": "جمهوری بنین"
+            },
+            "fin": {
+              "common": "Benin",
+              "official": "Beninin tasavalta"
+            },
+            "fra": {
+              "common": "Bénin",
+              "official": "République du Bénin"
+            },
+            "hrv": {
+              "common": "Benin",
+              "official": "Republika Benin"
+            },
+            "hun": {
+              "common": "Benin",
+              "official": "Benini Köztársaság"
+            },
+            "ind": {
+              "common": "Benin",
+              "official": "Republik Benin"
+            },
+            "ita": {
+              "common": "Benin",
+              "official": "Repubblica del Benin"
+            },
+            "jpn": {
+              "common": "ベナン",
+              "official": "ベナン共和国"
+            },
+            "kor": {
+              "common": "베냉",
+              "official": "베냉 공화국"
+            },
+            "nld": {
+              "common": "Benin",
+              "official": "Republiek Benin"
+            },
+            "pol": {
+              "common": "Benin",
+              "official": "Benin"
+            },
+            "por": {
+              "common": "Benin",
+              "official": "República do Benin"
+            },
+            "rus": {
+              "common": "Бенин",
+              "official": "Республика Бенин"
+            },
+            "slk": {
+              "common": "Benin",
+              "official": "Beninská republika"
+            },
+            "spa": {
+              "common": "Benín",
+              "official": "República de Benin"
+            },
+            "srp": {
+              "common": "Бенин",
+              "official": "Република Бенин"
+            },
+            "swe": {
+              "common": "Benin",
+              "official": "Republiken Benin"
+            },
+            "tur": {
+              "common": "Benin",
+              "official": "Benin Cumhuriyeti"
+            },
+            "urd": {
+              "common": "بینن",
+              "official": "جمہوریہ بینن"
+            },
+            "zho": {
+              "common": "贝宁",
+              "official": "贝宁共和国"
+            }
+          }
         },
         "capitals": [
           {
@@ -651,7 +4551,58 @@
           }
         ],
         "flag": {
-          "emoji": "🇧🇯"
+          "colors": {
+            "dominant": "#f5d000",
+            "palette": [
+              {
+                "hex": "#f5d000",
+                "proportion": 0.29511192325262675
+              },
+              {
+                "hex": "#e31316",
+                "proportion": 0.2985381452718136
+              },
+              {
+                "hex": "#1d8649",
+                "proportion": 0.39858382823206945
+              },
+              {
+                "hex": "#9fb52c",
+                "proportion": 0.0038830516217450892
+              },
+              {
+                "hex": "#883c33",
+                "proportion": 0.0038830516217450892
+              },
+              {
+                "hex": "#a3dd5d",
+                "proportion": 0
+              },
+              {
+                "hex": "#8a9c39",
+                "proportion": 0
+              },
+              {
+                "hex": "#007847",
+                "proportion": 0
+              }
+            ],
+            "prominent": "#1d8649",
+            "swatches": {
+              "dark_muted": null,
+              "dark_vibrant": null,
+              "light_muted": "#a3dd5d",
+              "light_vibrant": "#f5d000",
+              "muted": "#1d8649",
+              "vibrant": "#e31316"
+            }
+          },
+          "description": "The flag of Benin features a green vertical band on its hoist side that takes up about two-fifth the width of the field and two equal horizontal bands of yellow and red adjoining the vertical band.",
+          "emoji": "🇧🇯",
+          "html_entity": "&#127463;&#127471;",
+          "unicode": "U+1F1E7 U+1F1EF",
+          "url_png": "https://flags.restcountries.com/v5/w640/bj.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/bj.svg"
         },
         "_meta": {
           "lastUpdatedTimestamp": 1783005246
@@ -659,7 +4610,125 @@
       },
       {
         "names": {
-          "common": "Bermuda"
+          "alternates": [
+            "The Islands of Bermuda",
+            "The Bermudas",
+            "Somers Isles"
+          ],
+          "common": "Bermuda",
+          "native": {
+            "eng": {
+              "common": "Bermuda",
+              "official": "Bermuda"
+            }
+          },
+          "official": "Bermuda",
+          "translations": {
+            "ara": {
+              "common": "برمودا",
+              "official": "برمودا"
+            },
+            "bre": {
+              "common": "Bermuda",
+              "official": "Bermuda"
+            },
+            "ces": {
+              "common": "Bermudy",
+              "official": "Bermudské ostrovy"
+            },
+            "cym": {
+              "common": "Bermiwda",
+              "official": "Bermiwda"
+            },
+            "deu": {
+              "common": "Bermuda",
+              "official": "Bermuda"
+            },
+            "est": {
+              "common": "Bermuda",
+              "official": "Bermuda"
+            },
+            "fas": {
+              "common": "برمودا",
+              "official": "جزایر برمودا"
+            },
+            "fin": {
+              "common": "Bermuda",
+              "official": "Bermuda"
+            },
+            "fra": {
+              "common": "Bermudes",
+              "official": "Bermudes"
+            },
+            "hrv": {
+              "common": "Bermudi",
+              "official": "Bermuda"
+            },
+            "hun": {
+              "common": "Bermuda",
+              "official": "Bermuda"
+            },
+            "ind": {
+              "common": "Bermuda",
+              "official": "Bermuda"
+            },
+            "ita": {
+              "common": "Bermuda",
+              "official": "Bermuda"
+            },
+            "jpn": {
+              "common": "バミューダ",
+              "official": "バミューダ"
+            },
+            "kor": {
+              "common": "버뮤다",
+              "official": "버뮤다"
+            },
+            "nld": {
+              "common": "Bermuda",
+              "official": "Bermuda"
+            },
+            "pol": {
+              "common": "Bermudy",
+              "official": "Bermudy"
+            },
+            "por": {
+              "common": "Bermudas",
+              "official": "Bermudas"
+            },
+            "rus": {
+              "common": "Бермудские Острова",
+              "official": "Бермудские острова"
+            },
+            "slk": {
+              "common": "Bermudy",
+              "official": "Bermudy"
+            },
+            "spa": {
+              "common": "Bermudas",
+              "official": "Bermuda"
+            },
+            "srp": {
+              "common": "Бермуда",
+              "official": "Бермуда"
+            },
+            "swe": {
+              "common": "Bermuda",
+              "official": "Bermuda"
+            },
+            "tur": {
+              "common": "Bermuda",
+              "official": "Bermuda"
+            },
+            "urd": {
+              "common": "برمودا",
+              "official": "برمودا"
+            },
+            "zho": {
+              "common": "百慕大",
+              "official": "百慕大"
+            }
+          }
         },
         "capitals": [
           {
@@ -679,2118 +4748,71 @@
           }
         ],
         "flag": {
-          "emoji": "🇧🇲"
+          "colors": {
+            "dominant": "#c30d19",
+            "palette": [
+              {
+                "hex": "#c30d19",
+                "proportion": 0.7317668599328654
+              },
+              {
+                "hex": "#f6eddf",
+                "proportion": 0.1187061336588343
+              },
+              {
+                "hex": "#0f2b70",
+                "proportion": 0.07384803173634422
+              },
+              {
+                "hex": "#d6d8ea",
+                "proportion": 0.03936527311565456
+              },
+              {
+                "hex": "#826049",
+                "proportion": 0.011290814769606347
+              },
+              {
+                "hex": "#398a22",
+                "proportion": 0.01647848642050656
+              },
+              {
+                "hex": "#d18b40",
+                "proportion": 0.007018614586512054
+              },
+              {
+                "hex": "#600f18",
+                "proportion": 0.0015257857796765334
+              }
+            ],
+            "prominent": "#c30d19",
+            "swatches": {
+              "dark_muted": "#600f18",
+              "dark_vibrant": "#0f2b70",
+              "light_muted": "#d6d8ea",
+              "light_vibrant": null,
+              "muted": "#826049",
+              "vibrant": "#c30d19"
+            }
+          },
+          "description": "",
+          "emoji": "🇧🇲",
+          "html_entity": "&#127463;&#127474;",
+          "unicode": "U+1F1E7 U+1F1F2",
+          "url_png": "https://flags.restcountries.com/v5/w640/bm.png",
+          "url_svg": "https://flags.restcountries.com/v5/svg/bm.svg"
         },
         "_meta": {
           "lastUpdatedTimestamp": 1783005246
-        }
-      },
-      {
-        "names": {
-          "common": "Bhutan"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 27.47,
-              "lng": 89.63
-            },
-            "name": "Thimphu"
-          }
-        ],
-        "flag": {
-          "emoji": "🇧🇹"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Bolivia"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": true,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": false
-            },
-            "coordinates": {
-              "lat": -19.04,
-              "lng": -65.26
-            },
-            "name": "Sucre"
-          },
-          {
-            "attributes": {
-              "administrative": true,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": false
-            },
-            "coordinates": {
-              "lat": -16.5,
-              "lng": -68.15
-            },
-            "name": "La Paz"
-          }
-        ],
-        "flag": {
-          "emoji": "🇧🇴"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Bosnia and Herzegovina"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 43.87,
-              "lng": 18.42
-            },
-            "name": "Sarajevo"
-          }
-        ],
-        "flag": {
-          "emoji": "🇧🇦"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Botswana"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": -24.63,
-              "lng": 25.9
-            },
-            "name": "Gaborone"
-          }
-        ],
-        "flag": {
-          "emoji": "🇧🇼"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Bouvet Island"
-        },
-        "capitals": [],
-        "flag": {
-          "emoji": "🇧🇻"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Brazil"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": -15.79,
-              "lng": -47.88
-            },
-            "name": "Brasília"
-          }
-        ],
-        "flag": {
-          "emoji": "🇧🇷"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "British Indian Ocean Territory"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": -7.3133,
-              "lng": 72.4111
-            },
-            "name": "Diego Garcia"
-          }
-        ],
-        "flag": {
-          "emoji": "🇮🇴"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "British Virgin Islands"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 18.42,
-              "lng": -64.62
-            },
-            "name": "Road Town"
-          }
-        ],
-        "flag": {
-          "emoji": "🇻🇬"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Brunei"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 4.88,
-              "lng": 114.93
-            },
-            "name": "Bandar Seri Begawan"
-          }
-        ],
-        "flag": {
-          "emoji": "🇧🇳"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Bulgaria"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 42.68,
-              "lng": 23.32
-            },
-            "name": "Sofia"
-          }
-        ],
-        "flag": {
-          "emoji": "🇧🇬"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Burkina Faso"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 12.37,
-              "lng": -1.52
-            },
-            "name": "Ouagadougou"
-          }
-        ],
-        "flag": {
-          "emoji": "🇧🇫"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Burundi"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": -3.43,
-              "lng": 29.93
-            },
-            "name": "Gitega"
-          }
-        ],
-        "flag": {
-          "emoji": "🇧🇮"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Cabo Verde"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 14.92,
-              "lng": -23.52
-            },
-            "name": "Praia"
-          }
-        ],
-        "flag": {
-          "emoji": "🇨🇻"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Cambodia"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 11.55,
-              "lng": 104.92
-            },
-            "name": "Phnom Penh"
-          }
-        ],
-        "flag": {
-          "emoji": "🇰🇭"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Cameroon"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 3.85,
-              "lng": 11.5
-            },
-            "name": "Yaoundé"
-          }
-        ],
-        "flag": {
-          "emoji": "🇨🇲"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Canada"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 45.42,
-              "lng": -75.7
-            },
-            "name": "Ottawa"
-          }
-        ],
-        "flag": {
-          "emoji": "🇨🇦"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Caribbean Netherlands"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 12.14,
-              "lng": -68.27
-            },
-            "name": "Kralendijk"
-          }
-        ],
-        "flag": {
-          "emoji": "🇧🇶"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783012469
-        }
-      },
-      {
-        "names": {
-          "common": "Cayman Islands"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 19.3,
-              "lng": -81.38
-            },
-            "name": "George Town"
-          }
-        ],
-        "flag": {
-          "emoji": "🇰🇾"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Central African Republic"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 4.37,
-              "lng": 18.58
-            },
-            "name": "Bangui"
-          }
-        ],
-        "flag": {
-          "emoji": "🇨🇫"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Chad"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 12.1,
-              "lng": 15.03
-            },
-            "name": "N'Djamena"
-          }
-        ],
-        "flag": {
-          "emoji": "🇹🇩"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Chile"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": -33.45,
-              "lng": -70.67
-            },
-            "name": "Santiago"
-          }
-        ],
-        "flag": {
-          "emoji": "🇨🇱"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "China"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 39.92,
-              "lng": 116.38
-            },
-            "name": "Beijing"
-          }
-        ],
-        "flag": {
-          "emoji": "🇨🇳"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Christmas Island"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": -10.42,
-              "lng": 105.68
-            },
-            "name": "Flying Fish Cove"
-          }
-        ],
-        "flag": {
-          "emoji": "🇨🇽"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Cocos (Keeling) Islands"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": -12.17,
-              "lng": 96.83
-            },
-            "name": "West Island"
-          }
-        ],
-        "flag": {
-          "emoji": "🇨🇨"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Colombia"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 4.71,
-              "lng": -74.07
-            },
-            "name": "Bogotá"
-          }
-        ],
-        "flag": {
-          "emoji": "🇨🇴"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Comoros"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": -11.7,
-              "lng": 43.23
-            },
-            "name": "Moroni"
-          }
-        ],
-        "flag": {
-          "emoji": "🇰🇲"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Congo"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": -4.25,
-              "lng": 15.28
-            },
-            "name": "Brazzaville"
-          }
-        ],
-        "flag": {
-          "emoji": "🇨🇬"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Cook Islands"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": -21.2,
-              "lng": -159.77
-            },
-            "name": "Avarua"
-          }
-        ],
-        "flag": {
-          "emoji": "🇨🇰"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Costa Rica"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 9.93,
-              "lng": -84.09
-            },
-            "name": "San José"
-          }
-        ],
-        "flag": {
-          "emoji": "🇨🇷"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Croatia"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 45.815,
-              "lng": 15.9819
-            },
-            "name": "Zagreb"
-          }
-        ],
-        "flag": {
-          "emoji": "🇭🇷"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Cuba"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 23.12,
-              "lng": -82.35
-            },
-            "name": "Havana"
-          }
-        ],
-        "flag": {
-          "emoji": "🇨🇺"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Curaçao"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 12.1,
-              "lng": -68.92
-            },
-            "name": "Willemstad"
-          }
-        ],
-        "flag": {
-          "emoji": "🇨🇼"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Cyprus"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 35.17,
-              "lng": 33.37
-            },
-            "name": "Nicosia"
-          }
-        ],
-        "flag": {
-          "emoji": "🇨🇾"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Czechia"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 50.08,
-              "lng": 14.47
-            },
-            "name": "Prague"
-          }
-        ],
-        "flag": {
-          "emoji": "🇨🇿"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "DRC"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": -4.32,
-              "lng": 15.3
-            },
-            "name": "Kinshasa"
-          }
-        ],
-        "flag": {
-          "emoji": "🇨🇩"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Denmark"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 55.67,
-              "lng": 12.58
-            },
-            "name": "Copenhagen"
-          }
-        ],
-        "flag": {
-          "emoji": "🇩🇰"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Djibouti"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 11.58,
-              "lng": 43.15
-            },
-            "name": "Djibouti"
-          }
-        ],
-        "flag": {
-          "emoji": "🇩🇯"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Dominica"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 15.301,
-              "lng": -61.3881
-            },
-            "name": "Roseau"
-          }
-        ],
-        "flag": {
-          "emoji": "🇩🇲"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Dominican Republic"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 18.47,
-              "lng": -69.9
-            },
-            "name": "Santo Domingo"
-          }
-        ],
-        "flag": {
-          "emoji": "🇩🇴"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Ecuador"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": -0.22,
-              "lng": -78.5
-            },
-            "name": "Quito"
-          }
-        ],
-        "flag": {
-          "emoji": "🇪🇨"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Egypt"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 30.05,
-              "lng": 31.25
-            },
-            "name": "Cairo"
-          }
-        ],
-        "flag": {
-          "emoji": "🇪🇬"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "El Salvador"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 13.6929,
-              "lng": -89.2182
-            },
-            "name": "San Salvador"
-          }
-        ],
-        "flag": {
-          "emoji": "🇸🇻"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Equatorial Guinea"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 3.75,
-              "lng": 8.78
-            },
-            "name": "Malabo"
-          }
-        ],
-        "flag": {
-          "emoji": "🇬🇶"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Eritrea"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 15.33,
-              "lng": 38.93
-            },
-            "name": "Asmara"
-          }
-        ],
-        "flag": {
-          "emoji": "🇪🇷"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Estonia"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 59.43,
-              "lng": 24.72
-            },
-            "name": "Tallinn"
-          }
-        ],
-        "flag": {
-          "emoji": "🇪🇪"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Eswatini"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": true,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": false
-            },
-            "coordinates": {
-              "lat": -26.31,
-              "lng": 31.13
-            },
-            "name": "Mbabane"
-          },
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": true,
-              "primary": false
-            },
-            "coordinates": {
-              "lat": -26.47,
-              "lng": 31.2
-            },
-            "name": "Lobamba"
-          }
-        ],
-        "flag": {
-          "emoji": "🇸🇿"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Ethiopia"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 9.03,
-              "lng": 38.7
-            },
-            "name": "Addis Ababa"
-          }
-        ],
-        "flag": {
-          "emoji": "🇪🇹"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Falkland Islands"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": -51.7,
-              "lng": -57.85
-            },
-            "name": "Stanley"
-          }
-        ],
-        "flag": {
-          "emoji": "🇫🇰"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Faroe Islands"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 62.01,
-              "lng": -6.77
-            },
-            "name": "Tórshavn"
-          }
-        ],
-        "flag": {
-          "emoji": "🇫🇴"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Fiji"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": -18.13,
-              "lng": 178.42
-            },
-            "name": "Suva"
-          }
-        ],
-        "flag": {
-          "emoji": "🇫🇯"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005247
-        }
-      },
-      {
-        "names": {
-          "common": "Finland"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 60.17,
-              "lng": 24.93
-            },
-            "name": "Helsinki"
-          }
-        ],
-        "flag": {
-          "emoji": "🇫🇮"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005248
-        }
-      },
-      {
-        "names": {
-          "common": "France"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 48.87,
-              "lng": 2.33
-            },
-            "name": "Paris"
-          }
-        ],
-        "flag": {
-          "emoji": "🇫🇷"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005248
-        }
-      },
-      {
-        "names": {
-          "common": "French Guiana"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 4.94,
-              "lng": -52.33
-            },
-            "name": "Cayenne"
-          }
-        ],
-        "flag": {
-          "emoji": "🇬🇫"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005248
-        }
-      },
-      {
-        "names": {
-          "common": "French Polynesia"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": -17.53,
-              "lng": -149.56
-            },
-            "name": "Papeetē"
-          }
-        ],
-        "flag": {
-          "emoji": "🇵🇫"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005248
-        }
-      },
-      {
-        "names": {
-          "common": "French Southern and Antarctic Lands"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": -49.35,
-              "lng": 70.2167
-            },
-            "name": "Port-aux-Français"
-          }
-        ],
-        "flag": {
-          "emoji": "🇹🇫"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005248
-        }
-      },
-      {
-        "names": {
-          "common": "Gabon"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 0.38,
-              "lng": 9.45
-            },
-            "name": "Libreville"
-          }
-        ],
-        "flag": {
-          "emoji": "🇬🇦"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005248
-        }
-      },
-      {
-        "names": {
-          "common": "Gambia"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 13.45,
-              "lng": -16.57
-            },
-            "name": "Banjul"
-          }
-        ],
-        "flag": {
-          "emoji": "🇬🇲"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005248
-        }
-      },
-      {
-        "names": {
-          "common": "Georgia"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 41.68,
-              "lng": 44.83
-            },
-            "name": "Tbilisi"
-          }
-        ],
-        "flag": {
-          "emoji": "🇬🇪"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005248
-        }
-      },
-      {
-        "names": {
-          "common": "Germany"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 52.52,
-              "lng": 13.4
-            },
-            "name": "Berlin"
-          }
-        ],
-        "flag": {
-          "emoji": "🇩🇪"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005248
-        }
-      },
-      {
-        "names": {
-          "common": "Ghana"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 5.55,
-              "lng": -0.22
-            },
-            "name": "Accra"
-          }
-        ],
-        "flag": {
-          "emoji": "🇬🇭"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005248
-        }
-      },
-      {
-        "names": {
-          "common": "Gibraltar"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 36.13,
-              "lng": -5.35
-            },
-            "name": "Gibraltar"
-          }
-        ],
-        "flag": {
-          "emoji": "🇬🇮"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005248
-        }
-      },
-      {
-        "names": {
-          "common": "Greece"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 37.98,
-              "lng": 23.73
-            },
-            "name": "Athens"
-          }
-        ],
-        "flag": {
-          "emoji": "🇬🇷"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005248
-        }
-      },
-      {
-        "names": {
-          "common": "Greenland"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 64.18,
-              "lng": -51.75
-            },
-            "name": "Nuuk"
-          }
-        ],
-        "flag": {
-          "emoji": "🇬🇱"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005248
-        }
-      },
-      {
-        "names": {
-          "common": "Grenada"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 12.0529,
-              "lng": -61.7523
-            },
-            "name": "St. George's"
-          }
-        ],
-        "flag": {
-          "emoji": "🇬🇩"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005248
-        }
-      },
-      {
-        "names": {
-          "common": "Guadeloupe"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 16.03,
-              "lng": -61.73
-            },
-            "name": "Basse-Terre"
-          }
-        ],
-        "flag": {
-          "emoji": "🇬🇵"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005248
-        }
-      },
-      {
-        "names": {
-          "common": "Guam"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 13.48,
-              "lng": 144.75
-            },
-            "name": "Hagåtña"
-          }
-        ],
-        "flag": {
-          "emoji": "🇬🇺"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005248
-        }
-      },
-      {
-        "names": {
-          "common": "Guatemala"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 14.62,
-              "lng": -90.52
-            },
-            "name": "Guatemala City"
-          }
-        ],
-        "flag": {
-          "emoji": "🇬🇹"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005248
-        }
-      },
-      {
-        "names": {
-          "common": "Guernsey"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 49.45,
-              "lng": -2.54
-            },
-            "name": "St. Peter Port"
-          }
-        ],
-        "flag": {
-          "emoji": "🇬🇬"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783020690
-        }
-      },
-      {
-        "names": {
-          "common": "Guinea"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 9.6412,
-              "lng": -13.5784
-            },
-            "name": "Conakry"
-          }
-        ],
-        "flag": {
-          "emoji": "🇬🇳"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005248
-        }
-      },
-      {
-        "names": {
-          "common": "Guinea-Bissau"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 11.85,
-              "lng": -15.58
-            },
-            "name": "Bissau"
-          }
-        ],
-        "flag": {
-          "emoji": "🇬🇼"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005248
-        }
-      },
-      {
-        "names": {
-          "common": "Guyana"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 6.8,
-              "lng": -58.15
-            },
-            "name": "Georgetown"
-          }
-        ],
-        "flag": {
-          "emoji": "🇬🇾"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005248
-        }
-      },
-      {
-        "names": {
-          "common": "Haiti"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 18.53,
-              "lng": -72.33
-            },
-            "name": "Port-au-Prince"
-          }
-        ],
-        "flag": {
-          "emoji": "🇭🇹"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005248
-        }
-      },
-      {
-        "names": {
-          "common": "Heard Island and McDonald Islands"
-        },
-        "capitals": [],
-        "flag": {
-          "emoji": "🇭🇲"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005248
-        }
-      },
-      {
-        "names": {
-          "common": "Honduras"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 14.1,
-              "lng": -87.22
-            },
-            "name": "Tegucigalpa"
-          }
-        ],
-        "flag": {
-          "emoji": "🇭🇳"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783005248
-        }
-      },
-      {
-        "names": {
-          "common": "Hong Kong"
-        },
-        "capitals": [
-          {
-            "attributes": {
-              "administrative": false,
-              "constitutional": false,
-              "executive": false,
-              "judicial": false,
-              "legislative": false,
-              "primary": true
-            },
-            "coordinates": {
-              "lat": 22.267,
-              "lng": 114.188
-            },
-            "name": "City of Victoria"
-          }
-        ],
-        "flag": {
-          "emoji": "🇭🇰"
-        },
-        "_meta": {
-          "lastUpdatedTimestamp": 1783023918
         }
       }
     ],
     "meta": {
       "total": 254,
-      "count": 100,
-      "limit": 100,
+      "count": 25,
+      "limit": 25,
       "offset": 0,
       "more": true,
-      "request_id": "f841555f-9549-49b2-b9b5-c0a4b6e517bd",
+      "request_id": "4cd316f4-74d8-4078-9b2c-e91cf3a12ad3",
       "duration": 28
     }
   }
